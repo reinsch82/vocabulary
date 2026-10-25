@@ -1,0 +1,299 @@
+{
+  "name": "More! 1 - UNIT 13",
+  "words": [
+    {
+      "de": "Glück haben",
+      "en": "to be lucky",
+      "example": "They were lucky. The helicopter rescued them.",
+      "example_de": "Sie hatten Glück. Der Hubschrauber rettete sie."
+    },
+    {
+      "de": "brechen",
+      "en": "to break",
+      "example": "She falls and breaks her leg.",
+      "example_de": "Sie stürzt und bricht sich das Bein."
+    },
+    {
+      "de": "Land; Staat",
+      "en": "country",
+      "example": "Austria is a European country.",
+      "example_de": "Österreich ist ein europäisches Land."
+    },
+    {
+      "de": "Verbrechen",
+      "en": "crime",
+      "example": "Robbery is a crime.",
+      "example_de": "Raub ist ein Verbrechen."
+    },
+    {
+      "de": "Feuer",
+      "en": "fire",
+      "example": "Help! There’s a fire in Hammond Street.",
+      "example_de": "Hilfe! In der Hammond Street brennt es."
+    },
+    {
+      "de": "Unfall",
+      "en": "accident",
+      "example": "There was an accident on the rocks.",
+      "example_de": "Auf den Felsen gab es einen Unfall."
+    },
+    {
+      "de": "in Gefahr sein",
+      "en": "to be in danger",
+      "example": "The police can help you when you are in danger.",
+      "example_de": "Die Polizei kann dir helfen, wenn du in Gefahr bist."
+    },
+    {
+      "de": "den Berg hinauffliegen",
+      "en": "to fly up the mountain",
+      "example": "The man with the jetpack flies up the mountain.",
+      "example_de": "Der Mann mit dem Jetpack fliegt den Berg hinauf."
+    },
+    {
+      "de": "(an-)funken",
+      "en": "to radio",
+      "example": "He finds her and radios the rescue team.",
+      "example_de": "Er findet sie und funkt das Rettungsteam an."
+    },
+    {
+      "de": "Rettungsteam",
+      "en": "rescue team",
+      "example": "The rescue team arrives in the helicopter.",
+      "example_de": "Das Rettungsteam kommt mit dem Hubschrauber."
+    },
+    {
+      "de": "Stein",
+      "en": "rock",
+      "example": "The rock is wet.",
+      "example_de": "Der Stein ist nass."
+    },
+    {
+      "de": "um Hilfe rufen",
+      "en": "to shout for help",
+      "example": "She hasn’t got a phone and shouts for help.",
+      "example_de": "Sie hat kein Handy und ruft um Hilfe."
+    },
+    {
+      "de": "ausrutschen",
+      "en": "to slip",
+      "example": "He slips on wet rocks.",
+      "example_de": "Er rutscht auf nassen Steinen aus."
+    },
+    {
+      "de": "Sturm",
+      "en": "storm",
+      "example": "Yesterday, there was a storm with strong winds.",
+      "example_de": "Gestern gab es einen Sturm mit starken Winden."
+    },
+    {
+      "de": "nass",
+      "en": "wet",
+      "example": "It rained. The rocks are wet.",
+      "example_de": "Es hat geregnet. Die Steine sind nass."
+    },
+    {
+      "de": "(an-)kommen",
+      "en": "to arrive",
+      "example": "The mountain rescue team arrives.",
+      "example_de": "Die Bergrettung kommt."
+    },
+    {
+      "de": "in Sicherheit sein",
+      "en": "to be safe",
+      "example": "The helicopter arrives. You’re safe!",
+      "example_de": "Der Hubschrauber kommt. Du bist in Sicherheit!"
+    },
+    {
+      "de": "träumen",
+      "en": "to dream",
+      "example": "Are you dreaming? No – the man has a jetpack.",
+      "example_de": "Träumst du? Nein – der Mann hat ein Jetpack."
+    },
+    {
+      "de": "(hinunter-)fallen",
+      "en": "to fall down",
+      "example": "You fall down and break your leg.",
+      "example_de": "Du stürzt und brichst dir das Bein."
+    },
+    {
+      "de": "landen",
+      "en": "to land",
+      "example": "It is difficult for a helicopter to land on a mountain.",
+      "example_de": "Für einen Hubschrauber ist es schwierig, auf einem Berg zu landen."
+    },
+    {
+      "de": "Medikament; Medizin",
+      "en": "medicine",
+      "example": "The rescue team gives you medicine and keeps you warm.",
+      "example_de": "Das Rettungsteam gibt dir Medikamente und hält dich warm."
+    },
+    {
+      "de": "Himmel",
+      "en": "sky",
+      "example": "It’s night-time. The sky is dark.",
+      "example_de": "Es ist Nacht. Der Himmel ist dunkel."
+    },
+    {
+      "de": "windig",
+      "en": "windy",
+      "example": "There’s a storm. It’s very windy.",
+      "example_de": "Es ist stürmisch. Es ist sehr windig."
+    },
+    {
+      "de": "dunkel",
+      "en": "dark",
+      "example": "I can’t see anything. It’s very dark.",
+      "example_de": "Ich kann nichts sehen. Es ist sehr dunkel."
+    },
+    {
+      "de": "jung",
+      "en": "young",
+      "example": "She’s fifteen. She’s a young teenager.",
+      "example_de": "Sie ist fünfzehn. Sie ist ein junger Teenager."
+    },
+    {
+      "de": "allein",
+      "en": "alone",
+      "example": "I was alone in the mountains.",
+      "example_de": "Ich war allein in den Bergen."
+    },
+    {
+      "de": "Rucksack",
+      "en": "backpack",
+      "example": "My phone was in my backpack.",
+      "example_de": "Mein Handy war in meinem Rucksack."
+    },
+    {
+      "de": "passieren",
+      "en": "to happen",
+      "example": "What happened? The helicopter came back.",
+      "example_de": "Was ist passiert? Der Hubschrauber ist zurückgekommen."
+    },
+    {
+      "de": "verfolgen, jagen",
+      "en": "to chase",
+      "example": "My dog chased a cat in our garden.",
+      "example_de": "Mein Hund hat in unserem Garten eine Katze gejagt."
+    },
+    {
+      "de": "sonnig",
+      "en": "sunny",
+      "example": "The weather was sunny in the morning.",
+      "example_de": "Am Vormittag war das Wetter sonnig."
+    },
+    {
+      "de": "Klassensprecher/Klassensprecherin",
+      "en": "class speaker",
+      "example": "At the beginning of the school year, we choose a class speaker.",
+      "example_de": "Am Anfang des Schuljahres wählen wir einen Klassensprecher / eine Klassensprecherin."
+    },
+    {
+      "de": "Demokratie",
+      "en": "democracy",
+      "example": "In a democracy, the people have the power.",
+      "example_de": "In einer Demokratie hat das Volk die Macht."
+    },
+    {
+      "de": "Bürgermeister/Bürgermeisterin",
+      "en": "mayor",
+      "example": "The mayor is the leader of the town council.",
+      "example_de": "Der Bürgermeister ist der Vorsitzende des Gemeinderats."
+    },
+    {
+      "de": "politisch",
+      "en": "political",
+      "example": "Political education is important.",
+      "example_de": "Politische Bildung ist wichtig."
+    },
+    {
+      "de": "wählen",
+      "en": "to vote",
+      "example": "People vote for their parliament.",
+      "example_de": "Die Menschen wählen ihr Parlament."
+    },
+    {
+      "de": "Schalter; Knopf",
+      "en": "button",
+      "example": "Diana pressed the button.",
+      "example_de": "Diana drückte den Knopf."
+    },
+    {
+      "de": "Wolke",
+      "en": "cloud",
+      "example": "There were dark clouds in the sky.",
+      "example_de": "Am Himmel waren dunkle Wolken."
+    },
+    {
+      "de": "Erde",
+      "en": "Earth",
+      "example": "We live on Earth.",
+      "example_de": "Wir leben auf der Erde."
+    },
+    {
+      "de": "sterben",
+      "en": "to die",
+      "example": "The Earth is dying.",
+      "example_de": "Die Erde stirbt."
+    },
+    {
+      "de": "Wald",
+      "en": "forest",
+      "example": "There are a lot of trees in the forest.",
+      "example_de": "Im Wald gibt es viele Bäume."
+    },
+    {
+      "de": "Einleitung",
+      "en": "introduction",
+      "example": "Read the introduction to the radio play.",
+      "example_de": "Lies die Einleitung zum Hörspiel."
+    },
+    {
+      "de": "Weltall",
+      "en": "space",
+      "example": "People are living in spaceships in space.",
+      "example_de": "Die Menschen leben in Raumschiffen im Weltall."
+    },
+    {
+      "de": "bemerken",
+      "en": "to notice",
+      "example": "Suddenly, they noticed a little spaceship.",
+      "example_de": "Plötzlich bemerkten sie ein kleines Raumschiff."
+    },
+    {
+      "de": "drücken",
+      "en": "to press",
+      "example": "You have to press the button.",
+      "example_de": "Du musst den Knopf drücken."
+    },
+    {
+      "de": "Bildschirm",
+      "en": "screen",
+      "example": "They were in front of a big screen.",
+      "example_de": "Sie waren vor einem großen Bildschirm."
+    },
+    {
+      "de": "Abenteuer, Erlebnis",
+      "en": "adventure",
+      "example": "That was a great adventure!",
+      "example_de": "Das war ein tolles Abenteuer!"
+    },
+    {
+      "de": "Figur; Person",
+      "en": "character",
+      "example": "In the story, the characters are in space.",
+      "example_de": "In der Geschichte sind die Figuren im Weltall."
+    },
+    {
+      "de": "Du wirst es nicht glauben.",
+      "en": "Guess what?",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Erzähl mir mehr.",
+      "en": "Tell me more.",
+      "example": "",
+      "example_de": ""
+    }
+  ]
+}

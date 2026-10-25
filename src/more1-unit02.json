@@ -3,7 +3,7 @@
   "words": [
     {
       "de": "Zoo",
-      "en": "Zoo",
+      "en": "zoo",
       "example": "There are many animals in the zoo.",
       "example_de": "Im Zoo gibt es viele Tiere."
     },
@@ -136,7 +136,7 @@
     {
       "de": "Zug",
       "en": "train",
-      "example": "Let’s go on a train",
+      "example": "Let’s go on a train.",
       "example_de": "Lass uns mit einem Zug fahren."
     },
     {
