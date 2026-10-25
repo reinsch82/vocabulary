@@ -35,9 +35,18 @@ const filter = () => {
   $('#empty').hidden = shown > 0;
 };
 
-const setHidden = () => {
-  document.body.classList.toggle('hide-en', $('#hide-en').checked);
-  document.body.classList.toggle('hide-de', $('#hide-de').checked);
+// "en" = English only (German hidden), "de" = Deutsch only (English hidden)
+const SHOW_KEY = 'more1-wordlist-show';
+const setShow = (show) => {
+  document.body.classList.toggle('hide-de', show === 'en');
+  document.body.classList.toggle('hide-en', show === 'de');
+  document.querySelectorAll('tr.peek').forEach((tr) => tr.classList.remove('peek'));
+  $('#tap-hint').hidden = show === 'both';
+  try {
+    localStorage.setItem(SHOW_KEY, show);
+  } catch (e) {
+    // storage blocked: the mode just isn't remembered
+  }
 };
 
 $('#search').addEventListener('input', filter);
@@ -46,18 +55,32 @@ $('#unit').addEventListener('change', () => {
   filter();
   window.scrollTo(0, 0);
 });
-$('#hide-en').addEventListener('change', setHidden);
-$('#hide-de').addEventListener('change', setHidden);
-// click a hidden cell to peek
+document.querySelectorAll('input[name=show]').forEach((input) =>
+  input.addEventListener('change', () => setShow(input.value)),
+);
+// while one language is hidden, tapping a row shows it for that row
 document.addEventListener('click', (e) => {
-  const cell = e.target.closest('td.en, td.de');
-  if (cell) cell.classList.toggle('peek');
+  const row = e.target.closest('tbody tr');
+  if (row && (document.body.classList.contains('hide-en') || document.body.classList.contains('hide-de'))) {
+    row.classList.toggle('peek');
+  }
 });
+
+let saved = 'both';
+try {
+  saved = localStorage.getItem(SHOW_KEY) || 'both';
+} catch (e) {
+  // ignore
+}
+const savedInput = document.querySelector('input[name=show][value="' + saved + '"]');
+if (savedInput) savedInput.checked = true;
+setShow(savedInput ? saved : 'both');
 
 const hash = location.hash.slice(1);
 if (sections.some((s) => s.id === hash)) $('#unit').value = hash;
 filter();
-if (hash) window.scrollTo(0, 0);
+// the browser jumps to the #unit anchor after load; start at the top instead
+if (hash) window.addEventListener('load', () => window.scrollTo(0, 0));
 `;
 
 const vocabPage = (units) => {
@@ -111,7 +134,13 @@ ${baseStyle}
   }
   .tools input[type=search] { flex: 1 1 220px; min-width: 0; }
   .tools label { display: flex; gap: 6px; align-items: center; font-size: 0.875rem; }
-  .tools input[type=checkbox] { accent-color: var(--accent); }
+  .seg { display: inline-flex; border: 1px solid var(--border); border-radius: 8px; overflow: hidden; background: var(--surface); }
+  .seg label { position: relative; padding: 7px 12px; cursor: pointer; font-size: 0.875rem; }
+  .seg label + label { border-left: 1px solid var(--border); }
+  .seg input { position: absolute; opacity: 0; pointer-events: none; }
+  .seg label:has(input:checked) { background: var(--accent); color: var(--accent-text); font-weight: 600; }
+  .seg label:has(input:focus-visible) { outline: 2px solid var(--accent); outline-offset: -2px; }
+  #tap-hint { flex-basis: 100%; margin: 0; }
   #count { margin-left: auto; }
   h2 { font-size: 1.125rem; margin: 32px 0 8px; }
   section.unit { scroll-margin-top: 140px; } /* keep the heading clear of the sticky toolbar */
@@ -121,9 +150,10 @@ ${baseStyle}
   td.word { font-weight: 600; }
   td.ex { color: var(--muted); font-style: italic; }
   th:nth-child(1), th:nth-child(2) { width: 22%; }
-  /* self-test: blank out one language, click a cell to peek */
-  .hide-en td.en:not(.peek), .hide-de td.de:not(.peek) { color: transparent; cursor: pointer; }
-  .hide-en td.en:not(.peek):not(:empty), .hide-de td.de:not(.peek):not(:empty) {
+  /* self-test: blank out one language, tap a row to show it for that row */
+  .hide-en tbody tr, .hide-de tbody tr { cursor: pointer; }
+  .hide-en tr:not(.peek) td.en, .hide-de tr:not(.peek) td.de { color: transparent; }
+  .hide-en tr:not(.peek) td.en:not(:empty), .hide-de tr:not(.peek) td.de:not(:empty) {
     background: repeating-linear-gradient(-45deg, var(--bg) 0 6px, var(--surface) 6px 12px);
   }
   #empty { margin-top: 32px; }
@@ -137,6 +167,10 @@ ${baseStyle}
     td.en.word::after { content: " – "; font-weight: 400; color: var(--muted); }
     td.ex { margin-top: 4px; font-size: 0.9375rem; }
     td.ex:empty { display: none; }
+    .tools { position: static; }
+    /* narrow screens: leave hidden content out instead of showing placeholders */
+    .hide-en tr:not(.peek) td.en, .hide-de tr:not(.peek) td.de { display: none; }
+    .hide-de tr:not(.peek) td.en.word::after { content: none; }
   }
   @media print {
     .tools, .top a, footer { display: none; }
@@ -160,9 +194,13 @@ ${baseStyle}
       <option value="">All units</option>
       ${data.map((u) => `<option value="${u.id}">${escape(u.name)}</option>`).join('\n      ')}
     </select>
-    <label><input type="checkbox" id="hide-en"> Hide English</label>
-    <label><input type="checkbox" id="hide-de"> Hide Deutsch</label>
+    <div class="seg" role="radiogroup" aria-label="Show">
+      <label><input type="radio" name="show" value="both" checked>Both</label>
+      <label><input type="radio" name="show" value="en">English only</label>
+      <label><input type="radio" name="show" value="de">Deutsch only</label>
+    </div>
     <span class="muted" id="count"></span>
+    <p class="muted" id="tap-hint" hidden>Tap a row to show the translation.</p>
   </div>
 ${sections}
   <p class="muted" id="empty" hidden>Nothing found.</p>
