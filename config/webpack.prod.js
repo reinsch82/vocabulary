@@ -5,6 +5,7 @@ const { wordim } = require('./wordim');
 const { plainFlashCards } = require('./plainFlashCards');
 const { toCSV } = require('./toCSV');
 const { toTXT } = require('./toTXT');
+const { toPDF } = require('./toPDF');
 
 const units = [
   'more1-unit01',
@@ -44,6 +45,16 @@ const versions = [
     name: 'text-file',
     extension: 'txt',
     transform: (content, file) => toTXT(content),
+  },
+  {
+    name: 'pdf-worksheet',
+    extension: 'pdf',
+    transform: (content, file) => toPDF(content),
+  },
+  {
+    name: 'pdf-solutions',
+    extension: 'pdf',
+    transform: (content, file) => toPDF(content, true),
   },
 ];
 

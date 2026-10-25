@@ -7,3 +7,7 @@ node_modules
 yarn-error.log
 yarn.lock
 *.tgz
+
+# generated at deployment (GitHub Pages)
+dist/pdf-*
+dist/index.html
