@@ -15,7 +15,8 @@ const DAY = 24 * 60 * 60 * 1000;
 const MODES = {
   'de-en': { label: 'Words: Deutsch → English', ask: 'de', answer: 'en', hint: 'example_de', answerHint: 'example', answerLang: 'en' },
   'en-de': { label: 'Words: English → Deutsch', ask: 'en', answer: 'de', hint: 'example', answerHint: 'example_de', answerLang: 'de', askLang: 'en' },
-  'sent': { label: 'Sentences: Deutsch → English', ask: 'example_de', answer: 'example', answerLang: 'en' },
+  // entries without an example sentence are phrases themselves ("Good idea."), so ask those directly
+  'sent': { label: 'Sentences & phrases: Deutsch → English', ask: 'example_de', answer: 'example', fallbackAsk: 'de', fallbackAnswer: 'en', answerLang: 'en' },
 };
 
 // --- storage ---------------------------------------------------------------
@@ -41,12 +42,15 @@ const cardsFor = (unitIds, mode) => {
   const cards = [];
   UNITS.filter((u) => unitIds.includes(u.id)).forEach((u) => {
     u.words.forEach((w) => {
-      if (!w[m.ask] || !w[m.answer]) return;
+      const fallback = m.fallbackAsk && (!w[m.ask] || !w[m.answer]);
+      const ask = w[fallback ? m.fallbackAsk : m.ask];
+      const answer = w[fallback ? m.fallbackAnswer : m.answer];
+      if (!ask || !answer) return;
       cards.push({
         key: mode + '|' + u.id + '|' + w.en + '|' + w.de,
         unit: u.id,
-        ask: w[m.ask],
-        answer: w[m.answer],
+        ask,
+        answer,
         hint: m.hint ? w[m.hint] : '',
         // translation of the example sentence, shown with the answer
         answerHint: m.answerHint ? w[m.answerHint] : '',
