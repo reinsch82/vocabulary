@@ -13,8 +13,8 @@ const INTERVALS = [0, 1, 2, 4, 8, 16]; // days until a card in box n is due agai
 const DAY = 24 * 60 * 60 * 1000;
 
 const MODES = {
-  'de-en': { label: 'Words: Deutsch → English', ask: 'de', answer: 'en', hint: 'example_de', answerLang: 'en' },
-  'en-de': { label: 'Words: English → Deutsch', ask: 'en', answer: 'de', hint: 'example', answerLang: 'de', askLang: 'en' },
+  'de-en': { label: 'Words: Deutsch → English', ask: 'de', answer: 'en', hint: 'example_de', answerHint: 'example', answerLang: 'en' },
+  'en-de': { label: 'Words: English → Deutsch', ask: 'en', answer: 'de', hint: 'example', answerHint: 'example_de', answerLang: 'de', askLang: 'en' },
   'sent': { label: 'Sentences: Deutsch → English', ask: 'example_de', answer: 'example', answerLang: 'en' },
 };
 
@@ -48,6 +48,8 @@ const cardsFor = (unitIds, mode) => {
         ask: w[m.ask],
         answer: w[m.answer],
         hint: m.hint ? w[m.hint] : '',
+        // translation of the example sentence, shown with the answer
+        answerHint: m.answerHint ? w[m.answerHint] : '',
       });
     });
   });
@@ -263,6 +265,9 @@ const nextCard = () => {
       el('div', { class: 'answer' + (ok === true ? ' good' : ok === false ? ' bad' : '') },
         ok === null ? '' : el('p', { class: 'verdict' }, ok ? 'Correct!' : 'Not quite. The answer is:'),
         el('p', { class: 'answer-text' }, card.answer, speakBtn(card.answer, m.answerLang)),
+        card.answerHint
+          ? el('p', { class: 'answer-hint' }, card.answerHint, speakBtn(card.answerHint, m.answerLang))
+          : '',
       ),
     );
     if (m.answerLang === 'en') speak(card.answer, 'en');
@@ -384,6 +389,7 @@ ${baseStyle}
   .good .verdict { color: var(--good); }
   .bad .verdict { color: var(--bad); }
   .answer-text { margin: 0; font-size: 1.375rem; font-weight: 600; white-space: pre-line; }
+  .answer-hint { margin: 6px 0 0; font-style: italic; white-space: pre-line; }
   .speak { background: none; border: 0; cursor: pointer; font-size: 1.1rem; padding: 0 0 0 6px; vertical-align: middle; }
   .type-form { display: flex; gap: 8px; margin-top: 20px; }
   .type { flex: 1; min-width: 0; font-size: 1.125rem; }
