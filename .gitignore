@@ -11,3 +11,4 @@ yarn.lock
 # generated at deployment (GitHub Pages)
 dist/pdf-*
 dist/index.html
+dist/trainer.html
