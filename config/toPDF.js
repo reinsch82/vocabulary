@@ -3,7 +3,8 @@ const PDFDocument = require('pdfkit');
 
 // A4 in pt
 const MARGIN = 40;
-const FOOTER = 30;
+const BOTTOM = 42; // the table ends ~15 mm above the bottom edge
+const FOOTER_Y = 28; // footer text ~7 mm above the bottom edge, still printable
 const PAD = 6;
 const LINE_GAP = 24; // distance between writing lines (~8.5 mm)
 const HANDWRITING = 1.8; // handwriting is wider than the printed font
@@ -44,7 +45,7 @@ module.exports = {
     const colEn = width - COL_NR - COL_DE;
     const xDe = left + COL_NR;
     const xEn = xDe + COL_DE;
-    const bottom = doc.page.height - MARGIN - FOOTER;
+    const bottom = doc.page.height - BOTTOM;
 
     // title
     doc.font('Helvetica-Bold').fontSize(16).text(data.name, left, MARGIN);
@@ -125,7 +126,7 @@ module.exports = {
         .text(
           `${data.name}${withSolutions ? ' – Lösungen' : ''} · Seite ${p + 1} von ${range.count}`,
           left,
-          doc.page.height - MARGIN - 10,
+          doc.page.height - FOOTER_Y,
           { width, align: 'center', lineBreak: false },
         );
     }
