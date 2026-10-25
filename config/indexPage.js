@@ -3,6 +3,7 @@ const fs = require('fs');
 const path = require('path');
 const { baseStyle, footer } = require('./pageStyle');
 const { trainerPage } = require('./trainerPage');
+const { vocabPage } = require('./vocabPage');
 
 const escape = (str) =>
   String(str).replace(
@@ -38,6 +39,7 @@ const indexPage = (units, versions) => {
             .join('\n          ')}
         </div>
         <a class="btn secondary practice" href="trainer.html?unit=${file}">Practice online</a>
+        <a class="btn secondary practice" href="vocabulary.html#${file}">Word list</a>
         <p class="apps-label">Flashcard apps</p>
         <ul class="apps">
           ${others
@@ -74,7 +76,7 @@ ${baseStyle}
   .pdfs { display: flex; gap: 8px; flex-wrap: wrap; }
   .pdfs .btn { flex: 1 1 auto; }
   .practice { margin-top: 8px; display: block; }
-  .hero-cta { margin-top: 20px; }
+  .hero-cta { margin-top: 20px; display: flex; gap: 8px; flex-wrap: wrap; }
   .apps-label {
     margin: 20px 0 6px; font-size: 0.75rem; text-transform: uppercase;
     letter-spacing: 0.06em; color: var(--muted);
@@ -92,7 +94,10 @@ ${baseStyle}
     <h1>MORE! 1 Vocabulary</h1>
     <p>English – German vocabulary by unit: printable worksheets and files for flashcard apps.</p>
     <p class="book">Book: MORE! Workbook 1 · ISBN 978-3-7114-0001-7 · Helbling Verlagsgesellschaft mbH</p>
-    <a class="btn hero-cta" href="trainer.html">Open the vocabulary trainer</a>
+    <div class="hero-cta">
+      <a class="btn" href="trainer.html">Open the vocabulary trainer</a>
+      <a class="btn secondary" href="vocabulary.html">Word list (all units)</a>
+    </div>
   </header>
 
   <div class="grid">
@@ -133,6 +138,7 @@ class IndexPagePlugin {
         () => {
           compilation.emitAsset('index.html', new RawSource(indexPage(this.units, this.versions)));
           compilation.emitAsset('trainer.html', new RawSource(trainerPage(this.units)));
+          compilation.emitAsset('vocabulary.html', new RawSource(vocabPage(this.units)));
         },
       );
     });
