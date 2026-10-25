@@ -4,447 +4,536 @@
     {
       "de": "ein/e",
       "en": "a",
-      "example": "Read a story."
+      "example": "Read a story.",
+      "example_de": "Lies eine Geschichte."
     },
     {
       "de": "über",
       "en": "about",
-      "example": "Talk about your class."
+      "example": "Talk about your class.",
+      "example_de": "Sprich über deine Klasse."
     },
     {
       "de": "geben",
       "en": "to give",
-      "example": "Give me your school bag."
+      "example": "Give me your school bag.",
+      "example_de": "Gib mir deine Schultasche."
     },
     {
       "de": "Schule",
       "en": "school",
-      "example": "I go to school in London."
+      "example": "I go to school in London.",
+      "example_de": "Ich gehe in London zur Schule."
     },
     {
       "de": "Zeit",
       "en": "time",
-      "example": "Its time for school."
+      "example": "Its time for school.",
+      "example_de": "Es ist Zeit für die Schule."
     },
     {
       "de": "verstehen",
       "en": "to understand",
-      "example": "I understand the question."
+      "example": "I understand the question.",
+      "example_de": "Ich verstehe die Frage."
     },
     {
       "de": "schreiben",
       "en": "to write",
-      "example": "Write the numbers."
+      "example": "Write the numbers.",
+      "example_de": "Schreib die Zahlen."
     },
     {
       "de": "und",
       "en": "and",
-      "example": "One and one are two."
+      "example": "One and one are two.",
+      "example_de": "Eins und eins ist zwei."
     },
     {
       "de": "sind; bist; seid",
       "en": "are",
-      "example": "English words are really cool."
+      "example": "English words are really cool.",
+      "example_de": "Englische Wörter sind echt cool."
     },
     {
       "de": "genießen",
       "en": "to enjoy",
-      "example": "Enjoy the music."
+      "example": "Enjoy the music.",
+      "example_de": "Genieß die Musik."
     },
     {
       "de": "Hallo!",
       "en": "Hello!",
-      "example": ""
+      "example": "",
+      "example_de": ""
     },
     {
       "de": "zuhören",
       "en": "to listen",
-      "example": "Listen to the song."
+      "example": "Listen to the song.",
+      "example_de": "Hör dir das Lied an."
     },
     {
       "de": "lieben",
       "en": "to love",
-      "example": "I love blue. It’s my favourite colour."
+      "example": "I love blue. It’s my favourite colour.",
+      "example_de": "Ich liebe Blau. Es ist meine Lieblingsfarbe."
     },
     {
       "de": "mehr",
       "en": "more",
-      "example": "I want more!"
+      "example": "I want more!",
+      "example_de": "Ich will mehr!"
     },
     {
       "de": "lesen",
       "en": "to read",
-      "example": "Read the text."
+      "example": "Read the text.",
+      "example_de": "Lies den Text."
     },
     {
       "de": "sagen",
       "en": "to say",
-      "example": "Say it in English."
+      "example": "Say it in English.",
+      "example_de": "Sag es auf Englisch."
     },
     {
       "de": "singen",
       "en": "to sing",
-      "example": "We sing a song."
+      "example": "We sing a song.",
+      "example_de": "Wir singen ein Lied."
     },
     {
       "de": "der/die/das",
       "en": "the",
-      "example": "The rubber is white."
+      "example": "The rubber is white.",
+      "example_de": "Der Radiergummi ist weiß."
     },
     {
       "de": "ihr/e",
       "en": "their",
-      "example": "What’s their address?"
+      "example": "What’s their address?",
+      "example_de": "Wie lautet ihre Adresse?"
     },
     {
       "de": "fragen",
       "en": "to ask",
-      "example": "Can I ask you a question?"
+      "example": "Can I ask you a question?",
+      "example_de": "Darf ich dir eine Frage stellen?"
     },
     {
       "de": "Junge / Mädchen",
       "en": "boy / girl",
-      "example": "Sam is a name for a boy or a girl."
+      "example": "Sam is a name for a boy or a girl.",
+      "example_de": "Sam ist ein Name für einen Jungen oder ein Mädchen."
     },
     {
       "de": "(E-Mail-)Adresse",
       "en": "(email) address",
-      "example": "My email address is sara@linkways.com."
+      "example": "My email address is sara@linkways.com.",
+      "example_de": "Meine E-Mail-Adresse ist sara@linkways.com."
     },
     {
       "de": "Wie geht es dir/Ihnen/euch?",
       "en": "How are you?",
-      "example": ""
+      "example": "",
+      "example_de": ""
     },
     {
       "de": "ich bin; ich heiße",
       "en": "I am (= I’m)",
-      "example": "I’m Joanna."
+      "example": "I’m Joanna.",
+      "example_de": "Ich bin Joanna."
     },
     {
       "de": "Es geht mir gut.",
       "en": "I am (= I’m) fine.",
-      "example": ""
+      "example": "",
+      "example_de": ""
     },
     {
       "de": "Es tut mir leid.",
       "en": "I’m sorry.",
-      "example": ""
+      "example": "",
+      "example_de": ""
     },
     {
       "de": "kennenlernen; sich treffen",
       "en": "to meet",
-      "example": "Nice to meet you!"
+      "example": "Nice to meet you!",
+      "example_de": "Freut mich, dich kennenzulernen!"
     },
     {
       "de": "mein/e",
       "en": "my",
-      "example": "My name is John."
+      "example": "My name is John.",
+      "example_de": "Mein Name ist John."
     },
     {
       "de": "bitte",
       "en": "please",
-      "example": "Can you spell it, please?"
+      "example": "Can you spell it, please?",
+      "example_de": "Kannst du es bitte buchstabieren?"
     },
     {
       "de": "Danke., Dankeschön.",
       "en": "Thanks., Thank you.",
-      "example": ""
+      "example": "",
+      "example_de": ""
     },
     {
       "de": "dann, danach",
       "en": "then",
-      "example": "Listen to the dialogue. Then read it."
+      "example": "Listen to the dialogue. Then read it.",
+      "example_de": "Hör dir den Dialog an. Dann lies ihn."
     },
     {
       "de": "Wie heißt du?; Wie heißen Sie?",
       "en": "What’s your name?",
-      "example": ""
+      "example": "",
+      "example_de": ""
     },
     {
       "de": "ja",
       "en": "yes",
-      "example": "Yes, I’m good, thanks."
+      "example": "Yes, I’m good, thanks.",
+      "example_de": "Ja, mir geht's gut, danke."
     },
     {
       "de": "dein/e; Ihr/e; euer/eure",
       "en": "your",
-      "example": "What’s your email address?"
+      "example": "What’s your email address?",
+      "example_de": "Wie lautet deine E-Mail-Adresse?"
     },
     {
       "de": "arbeiten",
       "en": "to work",
-      "example": "Work with a partner."
+      "example": "Work with a partner.",
+      "example_de": "Arbeite mit einem Partner / einer Partnerin."
     },
     {
       "de": "Apfel",
       "en": "apple",
-      "example": "I eat apples."
+      "example": "I eat apples.",
+      "example_de": "Ich esse Äpfel."
     },
     {
       "de": "Ball",
       "en": "ball",
-      "example": "The children play with the ball."
+      "example": "The children play with the ball.",
+      "example_de": "Die Kinder spielen mit dem Ball."
     },
     {
       "de": "Bär",
       "en": "bear",
-      "example": "The bear Betty eats honey."
+      "example": "The bear Betty eats honey.",
+      "example_de": "Die Bärin Betty frisst Honig."
     },
     {
       "de": "Katze",
       "en": "cat",
-      "example": "I’have two cats."
+      "example": "I’have two cats.",
+      "example_de": "Ich habe zwei Katzen."
     },
     {
       "de": "Hund",
       "en": "dog",
-      "example": "My dog is brown."
+      "example": "My dog is brown.",
+      "example_de": "Mein Hund ist braun."
     },
     {
       "de": "Fisch",
       "en": "fish",
-      "example": "I eat fish."
+      "example": "I eat fish.",
+      "example_de": "Ich esse Fisch."
     },
     {
       "de": "Frosch",
       "en": "frog",
-      "example": "The frog Freddy eats insects."
+      "example": "The frog Freddy eats insects.",
+      "example_de": "Der Frosch Freddy frisst Insekten."
     },
     {
       "de": "sehen, schauen; Schau mal.",
       "en": "to look",
-      "example": "Look at the animals."
+      "example": "Look at the animals.",
+      "example_de": "Schau dir die Tiere an."
     },
     {
       "de": "oder",
       "en": "or",
-      "example": "Tick or correct the numbers."
+      "example": "Tick or correct the numbers.",
+      "example_de": "Hake die Zahlen ab oder korrigiere sie."
     },
     {
       "de": "(auf) wiedersehen, tschau, tschüss",
       "en": "bye",
-      "example": "Bye, Anna!"
+      "example": "Bye, Anna!",
+      "example_de": "Tschüss, Anna!"
     },
     {
       "de": "Krokodil",
       "en": "crocodile",
-      "example": "I’m a crocodile and I eat frogs."
+      "example": "I’m a crocodile and I eat frogs.",
+      "example_de": "Ich bin ein Krokodil und ich fresse Frösche."
     },
     {
       "de": "essen; fressen",
       "en": "to eat",
-      "example": "I eat insects."
+      "example": "I eat insects.",
+      "example_de": "Ich fresse Insekten."
     },
     {
       "de": "gehen",
       "en": "to go",
-      "example": "I must go. Bye."
+      "example": "I must go. Bye.",
+      "example_de": "Ich muss gehen. Tschüss."
     },
     {
       "de": "Gorilla",
       "en": "gorilla",
-      "example": "I’m a gorilla and I eat bananas."
+      "example": "I’m a gorilla and I eat bananas.",
+      "example_de": "Ich bin ein Gorilla und ich fresse Bananen."
     },
     {
       "de": "Honig",
       "en": "honey",
-      "example": "I’m a bear and I eat honey."
+      "example": "I’m a bear and I eat honey.",
+      "example_de": "Ich bin ein Bär und ich fresse Honig."
     },
     {
       "de": "Insekt",
       "en": "insect",
-      "example": "I’m a frog and I eat insects."
+      "example": "I’m a frog and I eat insects.",
+      "example_de": "Ich bin ein Frosch und ich fresse Insekten."
     },
     {
       "de": "müssen",
       "en": "must",
-      "example": "I must go."
+      "example": "I must go.",
+      "example_de": "Ich muss gehen."
     },
     {
       "de": "Anmerkung, Notiz",
       "en": "note",
-      "example": "Look at the note on page 24."
+      "example": "Look at the note on page 24.",
+      "example_de": "Schau dir die Anmerkung auf Seite 24 an."
     },
     {
       "de": "Breitmaulfrosch",
       "en": "wide-mouthed frog",
-      "example": "I’m a wide-mouthed frog."
+      "example": "I’m a wide-mouthed frog.",
+      "example_de": "Ich bin ein Breitmaulfrosch."
     },
     {
       "de": "du; Sie; ihr",
       "en": "you",
-      "example": "I’m Freddy. And you?"
+      "example": "I’m Freddy. And you?",
+      "example_de": "Ich bin Freddy. Und du?"
     },
     {
       "de": "wie viele",
       "en": "how many",
-      "example": "How many frogs can you see?"
+      "example": "How many frogs can you see?",
+      "example_de": "Wie viele Frösche kannst du sehen?"
     },
     {
       "de": "ist",
       "en": "is",
-      "example": "Freddy is a frog."
+      "example": "Freddy is a frog.",
+      "example_de": "Freddy ist ein Frosch."
     },
     {
       "de": "Schultasche",
       "en": "school bag",
-      "example": "Your book is in your school bag."
+      "example": "Your book is in your school bag.",
+      "example_de": "Dein Buch ist in deiner Schultasche."
     },
     {
       "de": "hassen, nicht ausstehen konnen",
       "en": "to hate",
-      "example": "I hate pink."
+      "example": "I hate pink.",
+      "example_de": "Ich hasse Rosa."
     },
     {
       "de": "hier",
       "en": "here",
-      "example": "Here’s your pencil case."
+      "example": "Here’s your pencil case.",
+      "example_de": "Hier ist deine Federschachtel."
     },
     {
       "de": "es",
       "en": "it",
-      "example": "It’s yellow."
+      "example": "It’s yellow.",
+      "example_de": "Es ist gelb."
     },
     {
       "de": "Lass(t) ...",
       "en": "Let’s ...",
-      "example": "Let’s sing a song!"
+      "example": "Let’s sing a song!",
+      "example_de": "Lasst uns ein Lied singen!"
     },
     {
       "de": "Mitternacht",
       "en": "midnight",
-      "example": "It’s twelve o’clock - midnight."
+      "example": "It’s twelve o’clock - midnight.",
+      "example_de": "Es ist zwölf Uhr – Mitternacht."
     },
     {
       "de": "unser/e",
       "en": "our",
-      "example": "This is our school."
+      "example": "This is our school.",
+      "example_de": "Das ist unsere Schule."
     },
     {
       "de": "Lieblings-",
       "en": "favourite",
-      "example": "Green is my favourite colour."
+      "example": "Green is my favourite colour.",
+      "example_de": "Grün ist meine Lieblingsfarbe."
     },
     {
       "de": "finden",
       "en": "to find",
-      "example": "Can you find my school tie?"
+      "example": "Can you find my school tie?",
+      "example_de": "Kannst du meine Schulkrawatte finden?"
     },
     {
       "de": "Haarband",
       "en": "hairband",
-      "example": "My hairband is red and yellow."
+      "example": "My hairband is red and yellow.",
+      "example_de": "Mein Haarband ist rot und gelb."
     },
     {
       "de": "Hut",
       "en": "hat",
-      "example": "That’s my favourite hat."
+      "example": "That’s my favourite hat.",
+      "example_de": "Das ist mein Lieblingshut."
     },
     {
       "de": "hell",
       "en": "light",
-      "example": "My favourite colour is light blue."
+      "example": "My favourite colour is light blue.",
+      "example_de": "Meine Lieblingsfarbe ist Hellblau."
     },
     {
       "de": "Hemd",
       "en": "shirt",
-      "example": "The shirt is white."
+      "example": "The shirt is white.",
+      "example_de": "Das Hemd ist weiß."
     },
     {
       "de": "Schuh",
       "en": "shoe",
-      "example": "My shoes are brown."
+      "example": "My shoes are brown.",
+      "example_de": "Meine Schuhe sind braun."
     },
     {
       "de": "Rock",
       "en": "skirt",
-      "example": "My skirt is black."
+      "example": "My skirt is black.",
+      "example_de": "Mein Rock ist schwarz."
     },
     {
       "de": "Socke",
       "en": "sock",
-      "example": "The socks are grey."
+      "example": "The socks are grey.",
+      "example_de": "Die Socken sind grau."
     },
     {
       "de": "Sonnenbrille",
       "en": "sunglasses",
-      "example": "My sunglasses are cool."
+      "example": "My sunglasses are cool.",
+      "example_de": "Meine Sonnenbrille ist cool."
     },
     {
       "de": "Pullover",
       "en": "sweater",
-      "example": "I wear a black sweater."
+      "example": "I wear a black sweater.",
+      "example_de": "Ich trage einen schwarzen Pullover."
     },
     {
       "de": "Krawatte",
       "en": "tie",
-      "example": "My school tie is green and white."
+      "example": "My school tie is green and white.",
+      "example_de": "Meine Schulkrawatte ist grün und weiß."
     },
     {
       "de": "T-shirt",
       "en": "T-shirt",
-      "example": "My favourite T-shirt is black."
+      "example": "My favourite T-shirt is black.",
+      "example_de": "Mein Lieblings-T-Shirt ist schwarz."
     },
     {
       "de": "nicht",
       "en": "not (...n’t)",
-      "example": "It isn’t pink."
+      "example": "It isn’t pink.",
+      "example_de": "Es ist nicht rosa."
     },
     {
       "de": "Kind",
       "en": "child",
-      "example": "The child is in class 1A."
+      "example": "The child is in class 1A.",
+      "example_de": "Das Kind ist in der Klasse 1A."
     },
     {
       "de": "sauber machen, putzen",
       "en": "to clean",
-      "example": "Clean the board."
+      "example": "Clean the board.",
+      "example_de": "Wisch die Tafel ab."
     },
     {
       "de": "schließen, zumachen",
       "en": "to close",
-      "example": "Close the door."
+      "example": "Close the door.",
+      "example_de": "Schließ die Tür."
     },
     {
       "de": "öffnen, aufmachen",
       "en": "to open",
-      "example": "Open the window."
+      "example": "Open the window.",
+      "example_de": "Mach das Fenster auf."
     },
     {
       "de": "Bild",
       "en": "picture",
-      "example": "Look at the pictures."
+      "example": "Look at the pictures.",
+      "example_de": "Schau dir die Bilder an."
     },
     {
       "de": "sich (hin-)setzen",
       "en": "to sit down",
-      "example": "Sit down, children."
+      "example": "Sit down, children.",
+      "example_de": "Setzt euch, Kinder."
     },
     {
       "de": "sprechen",
       "en": "to speak",
-      "example": "Don’t speak. Listen."
+      "example": "Don’t speak. Listen.",
+      "example_de": "Sprich nicht. Hör zu."
     },
     {
       "de": "aufstehen",
       "en": "to stand up",
-      "example": "Don’t stand up. Sit down."
+      "example": "Don’t stand up. Sit down.",
+      "example_de": "Steh nicht auf. Setz dich."
     },
     {
       "de": "herausnehmen",
       "en": "to take out",
-      "example": "Take out your books."
+      "example": "Take out your books.",
+      "example_de": "Nehmt eure Bücher heraus."
     },
     {
       "de": "(Schul-)Klasse",
       "en": "class",
-      "example": "I’m in class 1A."
+      "example": "I’m in class 1A.",
+      "example_de": "Ich bin in der Klasse 1A."
     },
     {
       "de": "eigener/eigene/eigenes",
       "en": "own",
-      "example": "Write your own text."
+      "example": "Write your own text.",
+      "example_de": "Schreib deinen eigenen Text."
     }
   ]
 }

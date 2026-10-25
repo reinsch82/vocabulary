@@ -4,64 +4,92 @@
     {
       "de": "Loch",
       "en": "hole",
-      "example": "Have your jeans got holes in them?"
+      "example": "Have your jeans got holes in them?",
+      "example_de": "Hat deine Jeans Löcher?"
     },
     {
       "de": "(irgend-)etwas",
       "en": "anything",
-      "example": "Is there anything in the box?"
-    },{
+      "example": "Is there anything in the box?",
+      "example_de": "Ist irgendetwas in der Schachtel?"
+    },
+    {
       "de": "(sich) ausleihen",
       "en": "to borrow",
-      "example": "Can I borrow your sweater tomorrow?"
-    },{
+      "example": "Can I borrow your sweater tomorrow?",
+      "example_de": "Kann ich mir morgen deinen Pullover ausleihen?"
+    },
+    {
       "de": "passen",
       "en": "to fit",
-      "example": "These jeans don’t fit."
-    },{
+      "example": "These jeans don’t fit.",
+      "example_de": "Diese Jeans passt nicht."
+    },
+    {
       "de": "anprobieren",
       "en": "to try on",
-      "example": "Can I try these trousers on?"
-    },{
+      "example": "Can I try these trousers on?",
+      "example_de": "Kann ich diese Hose anprobieren?"
+    },
+    {
       "de": "wehtun, schmerzen",
       "en": "to hurt",
-      "example": "My head hurts!"
-    },{
+      "example": "My head hurts!",
+      "example_de": "Mein Kopf tut weh!"
+    },
+    {
       "de": "Gedicht",
       "en": "poem",
-      "example": "He likes to write poems."
-    },{
+      "example": "He likes to write poems.",
+      "example_de": "Er schreibt gerne Gedichte."
+    },
+    {
       "de": "kitzeln",
       "en": "to tickle",
-      "example": "Please don’t tickle me!"
-    },{
+      "example": "Please don’t tickle me!",
+      "example_de": "Bitte kitzle mich nicht!"
+    },
+    {
       "de": "jemand",
       "en": "somebody",
-      "example": "There’s somebody behind the bushes."
-    },{
+      "example": "There’s somebody behind the bushes.",
+      "example_de": "Hinter den Büschen ist jemand."
+    },
+    {
       "de": "rückwärts",
       "en": "backwards",
-      "example": "I can spell the word backwards too."
-    },{
+      "example": "I can spell the word backwards too.",
+      "example_de": "Ich kann das Wort auch rückwärts buchstabieren."
+    },
+    {
       "de": "aufregend",
       "en": "exciting",
-      "example": "It’s a very exciting costume."
-    },{
+      "example": "It’s a very exciting costume.",
+      "example_de": "Es ist ein sehr aufregendes Kostüm."
+    },
+    {
       "de": "heute Abend",
       "en": "tonight",
-      "example": "They all want to win the big prize tonight."
-    },{
+      "example": "They all want to win the big prize tonight.",
+      "example_de": "Sie wollen heute Abend alle den großen Preis gewinnen."
+    },
+    {
       "de": "Pferd",
       "en": "horse",
-      "example": "She rides her horse at weekends."
-    },{
+      "example": "She rides her horse at weekends.",
+      "example_de": "Sie reitet am Wochenende ihr Pferd."
+    },
+    {
       "de": "Gebäude",
       "en": "building",
-      "example": "The children go into the building."
-    },{
+      "example": "The children go into the building.",
+      "example_de": "Die Kinder gehen in das Gebäude."
+    },
+    {
       "de": "Lass(t) uns verschwinden.",
       "en": "Let’s get out of here.",
-      "example": ""
+      "example": "",
+      "example_de": ""
     }
   ]
 }

@@ -4,207 +4,248 @@
     {
       "de": "Zoo",
       "en": "Zoo",
-      "example": "There are many animals in the zoo."
+      "example": "There are many animals in the zoo.",
+      "example_de": "Im Zoo gibt es viele Tiere."
     },
     {
       "de": "schön, hübsch",
       "en": "beautiful",
-      "example": "The parrot is blue and yellow. It’s beautiful."
+      "example": "The parrot is blue and yellow. It’s beautiful.",
+      "example_de": "Der Papagei ist blau und gelb. Er ist schön."
     },
     {
       "de": "hinter",
       "en": "behind",
-      "example": "The chair is behind the desk."
+      "example": "The chair is behind the desk.",
+      "example_de": "Der Stuhl ist hinter dem Schreibtisch."
     },
     {
       "de": "groß",
       "en": "big",
-      "example": "There’s a big giraffe."
+      "example": "There’s a big giraffe.",
+      "example_de": "Da ist eine große Giraffe."
     },
     {
       "de": "vor",
       "en": "in front of",
-      "example": "The tree is in front of you."
+      "example": "The tree is in front of you.",
+      "example_de": "Der Baum ist vor dir."
     },
     {
       "de": "neben",
       "en": "next to",
-      "example": "The parrot is next to the monkeys."
+      "example": "The parrot is next to the monkeys.",
+      "example_de": "Der Papagei ist neben den Affen."
     },
     {
       "de": "jetzt",
       "en": "now",
-      "example": "Where is it now?"
+      "example": "Where is it now?",
+      "example_de": "Wo ist er jetzt?"
     },
     {
       "de": "auf",
       "en": "on",
-      "example": "Look! The parrot is on Buddy now."
+      "example": "Look! The parrot is on Buddy now.",
+      "example_de": "Schau! Der Papagei sitzt jetzt auf Buddy."
     },
     {
       "de": "es gibt, da ist",
       "en": "there is (there’s)",
-      "example": "There’s a book on my desk."
+      "example": "There’s a book on my desk.",
+      "example_de": "Da liegt ein Buch auf meinem Schreibtisch."
     },
     {
       "de": "es gibt, da sind",
       "en": "there are",
-      "example": "There are three books on my desk."
+      "example": "There are three books on my desk.",
+      "example_de": "Da liegen drei Bücher auf meinem Schreibtisch."
     },
     {
       "de": "Baum",
       "en": "tree",
-      "example": "The monkeys are behind the tree."
+      "example": "The monkeys are behind the tree.",
+      "example_de": "Die Affen sind hinter dem Baum."
     },
     {
       "de": "unter",
       "en": "under",
-      "example": "There’s a book under my desk."
+      "example": "There’s a book under my desk.",
+      "example_de": "Da liegt ein Buch unter meinem Schreibtisch."
     },
     {
       "de": "Was ist los?",
       "en": "What is it?",
-      "example": ""
+      "example": "",
+      "example_de": ""
     },
     {
       "de": "wo",
       "en": "where",
-      "example": "Where is it?"
+      "example": "Where is it?",
+      "example_de": "Wo ist es?"
     },
     {
       "de": "klein",
       "en": "small",
-      "example": "The monkey isn’t big. It’s small."
+      "example": "The monkey isn’t big. It’s small.",
+      "example_de": "Der Affe ist nicht groß. Er ist klein."
     },
     {
       "de": "Erwachsene/r",
       "en": "adult",
-      "example": "Adults are £14.40."
+      "example": "Adults are £14.40.",
+      "example_de": "Erwachsene zahlen 14,40 £."
     },
     {
       "de": "bei; an; hier: in",
       "en": "at",
-      "example": "The children are at the zoo."
+      "example": "The children are at the zoo.",
+      "example_de": "Die Kinder sind im Zoo."
     },
     {
       "de": "(mit-)bringen",
       "en": "to bring",
-      "example": "Can I bring my dog, Buddy?"
+      "example": "Can I bring my dog, Buddy?",
+      "example_de": "Darf ich meinen Hund Buddy mitbringen?"
     },
     {
       "de": "aber",
       "en": "but",
-      "example": "Dogs are welcome. But they can’t run around."
+      "example": "Dogs are welcome. But they can’t run around.",
+      "example_de": "Hunde sind willkommen. Aber sie dürfen nicht herumlaufen."
     },
     {
       "de": "füttern",
       "en": "to feed",
-      "example": "Let’s go and feed the penguins."
+      "example": "Let’s go and feed the penguins.",
+      "example_de": "Lass uns die Pinguine füttern gehen."
     },
     {
       "de": "(Reise-)Führer/in",
       "en": "guide",
-      "example": "Listen to the guide."
+      "example": "Listen to the guide.",
+      "example_de": "Hör dem Führer / der Führerin zu."
     },
     {
       "de": "herumlaufen",
       "en": "to run around",
-      "example": "Dogs are welcome, but they can’t run around."
+      "example": "Dogs are welcome, but they can’t run around.",
+      "example_de": "Hunde sind willkommen, aber sie dürfen nicht herumlaufen."
     },
     {
       "de": "Zug",
       "en": "train",
-      "example": "Let’s go on a train"
+      "example": "Let’s go on a train",
+      "example_de": "Lass uns mit einem Zug fahren."
     },
     {
       "de": "zu; bis; vor; hier: in",
       "en": "to",
-      "example": "Welcome to the wildlife park!"
+      "example": "Welcome to the wildlife park!",
+      "example_de": "Willkommen im Wildpark!"
     },
     {
       "de": "willkommen",
       "en": "welcome",
-      "example": "Welcome to London."
+      "example": "Welcome to London.",
+      "example_de": "Willkommen in London."
     },
     {
       "de": "aus",
       "en": "from",
-      "example": "They are from California."
+      "example": "They are from California.",
+      "example_de": "Sie kommen aus Kalifornien."
     },
     {
       "de": "Jahr; Jahrgangsstufe",
       "en": "year",
-      "example": "I’m in Year 7."
+      "example": "I’m in Year 7.",
+      "example_de": "Ich bin in der 7. Schulstufe."
     },
     {
       "de": "er",
       "en": "he",
-      "example": "He likes animals."
+      "example": "He likes animals.",
+      "example_de": "Er mag Tiere."
     },
     {
       "de": "sie",
       "en": "she",
-      "example": "She is from England."
+      "example": "She is from England.",
+      "example_de": "Sie kommt aus England."
     },
     {
       "de": "sprechen, sich unterhalten",
       "en": "to talk",
-      "example": "Talk about the boys and girls."
+      "example": "Talk about the boys and girls.",
+      "example_de": "Sprich über die Jungen und Mädchen."
     },
     {
       "de": "sie",
       "en": "they",
-      "example": "Rahim and Sue are 11. They are from Manchester."
+      "example": "Rahim and Sue are 11. They are from Manchester.",
+      "example_de": "Rahim und Sue sind 11. Sie kommen aus Manchester."
     },
     {
       "de": "wir",
       "en": "we",
-      "example": "We’re Sophie and John."
+      "example": "We’re Sophie and John.",
+      "example_de": "Wir sind Sophie und John."
     },
     {
       "de": "für",
       "en": "for",
-      "example": "Here’s a chant for you."
+      "example": "Here’s a chant for you.",
+      "example_de": "Hier ist ein Sprechgesang für dich."
     },
     {
       "de": "glücklich, fröhlich; zufrieden",
       "en": "happy",
-      "example": "Buddy is happy."
+      "example": "Buddy is happy.",
+      "example_de": "Buddy ist glücklich."
     },
     {
       "de": "jemanden herauslassen",
       "en": "to let somebody out",
-      "example": "Let us out!"
+      "example": "Let us out!",
+      "example_de": "Lass uns raus!"
     },
     {
       "de": "uns",
       "en": "us",
-      "example": "Can you see us?"
+      "example": "Can you see us?",
+      "example_de": "Kannst du uns sehen?"
     },
     {
       "de": "Auto",
       "en": "car",
-      "example": "The parrot is in the car."
+      "example": "The parrot is in the car.",
+      "example_de": "Der Papagei ist im Auto."
     },
     {
       "de": "Endlich.",
       "en": "At last.",
-      "example": ""
+      "example": "",
+      "example_de": ""
     },
     {
       "de": "Wie komisch!",
       "en": "How strange!",
-      "example": ""
+      "example": "",
+      "example_de": ""
     },
     {
       "de": "Lass mich mal schauen.",
       "en": "Let me see.",
-      "example": ""
+      "example": "",
+      "example_de": ""
     },
     {
       "de": "Stein",
       "en": "stone",
-      "example": "Colour your stone."
+      "example": "Colour your stone.",
+      "example_de": "Mal deinen Stein an."
     }
   ]
 }

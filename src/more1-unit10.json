@@ -4,172 +4,206 @@
     {
       "de": "wie viel kostet/kosten ...",
       "en": "how much is/are ...",
-      "example": "How much are the trainers?"
+      "example": "How much are the trainers?",
+      "example_de": "Wie viel kosten die Turnschuhe?"
     },
     {
       "de": "Preis, Rechnungsbetrag",
       "en": "price",
-      "example": "The price is six pounds ninety-nine."
+      "example": "The price is six pounds ninety-nine.",
+      "example_de": "Der Preis beträgt sechs Pfund neunundneunzig."
     },
     {
       "de": "diese",
       "en": "these",
-      "example": "I’d like these shoes here."
+      "example": "I’d like these shoes here.",
+      "example_de": "Ich hätte gerne diese Schuhe hier."
     },
     {
       "de": "jene",
       "en": "those",
-      "example": "I’d like those trainers over there."
+      "example": "I’d like those trainers over there.",
+      "example_de": "Ich hätte gerne die Turnschuhe dort drüben."
     },
     {
       "de": "Darf es noch etwas sein?",
       "en": "Anything else?",
-      "example": ""
+      "example": "",
+      "example_de": ""
     },
     {
       "de": "Kann ich dir/Ihnen behilflich sein?",
       "en": "Can I help you?",
-      "example": ""
+      "example": "",
+      "example_de": ""
     },
     {
       "de": "Computerspiel",
       "en": "computer game",
-      "example": "How much is the computer game?"
+      "example": "How much is the computer game?",
+      "example_de": "Wie viel kostet das Computerspiel?"
     },
     {
       "de": "Kopfhörer",
       "en": "headphones",
-      "example": "She can’t hear you. She has headphones on."
+      "example": "She can’t hear you. She has headphones on.",
+      "example_de": "Sie kann dich nicht hören. Sie hat Kopfhörer auf."
     },
     {
       "de": "Schlüsselanhänger",
       "en": "key ring",
-      "example": "I put my key on a key ring."
+      "example": "I put my key on a key ring.",
+      "example_de": "Ich gebe meinen Schlüssel auf einen Schlüsselanhänger."
     },
     {
       "de": "Zeitschrift, Magazin",
       "en": "magazine",
-      "example": "Can I buy this magazine?"
+      "example": "Can I buy this magazine?",
+      "example_de": "Kann ich diese Zeitschrift kaufen?"
     },
     {
       "de": "Mobiltelefon, Handy",
       "en": "mobile phone",
-      "example": "Can I have a new mobile phone?"
+      "example": "Can I have a new mobile phone?",
+      "example_de": "Kann ich ein neues Handy haben?"
     },
     {
       "de": "Roller",
       "en": "scooter",
-      "example": "I ride my scooter to school."
+      "example": "I ride my scooter to school.",
+      "example_de": "Ich fahre mit meinem Roller zur Schule."
     },
     {
       "de": "Süßigkeiten",
       "en": "sweets (pl)",
-      "example": "The sweets are one ninety-nine."
+      "example": "The sweets are one ninety-nine.",
+      "example_de": "Die Süßigkeiten kosten eins neunundneunzig."
     },
     {
       "de": "Dose",
       "en": "tin",
-      "example": "A tin of chicken soup, please."
+      "example": "A tin of chicken soup, please.",
+      "example_de": "Eine Dose Hühnersuppe, bitte."
     },
     {
       "de": "Herzlichen Glückwunsch!",
       "en": "Congratulations!",
-      "example": ""
+      "example": "",
+      "example_de": ""
     },
     {
       "de": "Regel",
       "en": "rule",
-      "example": "You know the rules."
+      "example": "You know the rules.",
+      "example_de": "Du kennst die Regeln."
     },
     {
       "de": "Kunde/Kundin",
       "en": "customer",
-      "example": "His customers like to come to the shop."
+      "example": "His customers like to come to the shop.",
+      "example_de": "Seine Kunden kommen gerne in das Geschäft."
     },
     {
       "de": "alles",
       "en": "everything",
-      "example": "Have you got everything?"
+      "example": "Have you got everything?",
+      "example_de": "Hast du alles?"
     },
     {
       "de": "teuer",
       "en": "expensive",
-      "example": "The things in this shop are very expensive."
+      "example": "The things in this shop are very expensive.",
+      "example_de": "Die Sachen in diesem Geschäft sind sehr teuer."
     },
     {
       "de": "einschlafen",
       "en": "to fall asleep",
-      "example": "Mr Anderson sits on his chair and falls asleep."
+      "example": "Mr Anderson sits on his chair and falls asleep.",
+      "example_de": "Mr Anderson sitzt auf seinem Stuhl und schläft ein."
     },
     {
       "de": "Auf Wiedersehen., Tschüss.",
       "en": "Goodbye.",
-      "example": ""
+      "example": "",
+      "example_de": ""
     },
     {
       "de": "Ich hätte gerne ... , Ich möchte ...",
       "en": "I’d like ...",
-      "example": "I’d like 20 kilos of rice."
+      "example": "I’d like 20 kilos of rice.",
+      "example_de": "Ich hätte gerne 20 Kilo Reis."
     },
     {
       "de": "Kein Wunder.",
       "en": "No wonder.",
-      "example": ""
+      "example": "",
+      "example_de": ""
     },
     {
       "de": "plötzlich, auf einmal",
       "en": "suddenly",
-      "example": "Suddenly, he hears the doorbell."
+      "example": "Suddenly, he hears the doorbell.",
+      "example_de": "Plötzlich hört er die Türklingel."
     },
     {
       "de": "Stadt",
       "en": "town",
-      "example": "There’s an old shop in the town."
+      "example": "There’s an old shop in the town.",
+      "example_de": "In der Stadt gibt es ein altes Geschäft."
     },
     {
       "de": "weggehen, fortgehen",
       "en": "to walk away",
-      "example": "The horse picks up the food and walks away."
+      "example": "The horse picks up the food and walks away.",
+      "example_de": "Das Pferd nimmt das Futter und geht weg."
     },
     {
       "de": "Umkleidekabine",
       "en": "changing room",
-      "example": "You can try them on in the changing room."
+      "example": "You can try them on in the changing room.",
+      "example_de": "Du kannst sie in der Umkleidekabine anprobieren."
     },
     {
       "de": "Kein Problem.",
       "en": "No problem.",
-      "example": ""
+      "example": "",
+      "example_de": ""
     },
     {
       "de": "da/dort drüben",
       "en": "over there",
-      "example": "How much are those socks over there in the window?"
+      "example": "How much are those socks over there in the window?",
+      "example_de": "Wie viel kosten die Socken dort drüben im Schaufenster?"
     },
     {
       "de": "Schublade",
       "en": "drawer",
-      "example": "All my socks are in the drawer."
+      "example": "All my socks are in the drawer.",
+      "example_de": "Alle meine Socken sind in der Schublade."
     },
     {
       "de": "So ist es besser.",
       "en": "That’s better.",
-      "example": ""
+      "example": "",
+      "example_de": ""
     },
     {
       "de": "Was kann ich für dich/Sie tun?",
       "en": "What can I do for you?",
-      "example": ""
+      "example": "",
+      "example_de": ""
     },
     {
       "de": "Pass(t) auf.; Sei(d) vorsichtig.",
       "en": "Be careful.",
-      "example": ""
+      "example": "",
+      "example_de": ""
     },
     {
       "de": "Einen Augenblick bitte.; Moment mal.",
       "en": "Just a minute.",
-      "example": ""
+      "example": "",
+      "example_de": ""
     }
   ]
 }

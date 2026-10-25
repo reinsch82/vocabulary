@@ -4,132 +4,158 @@
     {
       "de": "auch",
       "en": "also",
-      "example": "Tamara is also a pirate."
+      "example": "Tamara is also a pirate.",
+      "example_de": "Tamara ist auch eine Piratin."
     },
     {
       "de": "berühmt",
       "en": "famous",
-      "example": "Greybeard is a famous pirate."
+      "example": "Greybeard is a famous pirate.",
+      "example_de": "Greybeard ist ein berühmter Pirat."
     },
     {
       "de": "ihm/ihn",
       "en": "him",
-      "example": "Peter is nice. We like him."
+      "example": "Peter is nice. We like him.",
+      "example_de": "Peter ist nett. Wir mögen ihn."
     },
     {
       "de": "sein/e",
       "en": "his",
-      "example": "His pirate name is Blackbeard."
+      "example": "His pirate name is Blackbeard.",
+      "example_de": "Sein Piratenname ist Blackbeard."
     },
     {
       "de": "Schiff",
       "en": "ship",
-      "example": "Greybeard has got a big ship."
+      "example": "Greybeard has got a big ship.",
+      "example_de": "Greybeard hat ein großes Schiff."
     },
     {
       "de": "Angst haben (vor)",
       "en": "to be scared (of)",
-      "example": "The kids are scared of the ship."
+      "example": "The kids are scared of the ship.",
+      "example_de": "Die Kinder haben Angst vor dem Schiff."
     },
     {
       "de": "sehr",
       "en": "very",
-      "example": "They are very scared."
+      "example": "They are very scared.",
+      "example_de": "Sie haben sehr große Angst."
     },
     {
       "de": "stark, kräftig",
       "en": "strong",
-      "example": "Greybeard hasn’t got a strong left leg."
+      "example": "Greybeard hasn’t got a strong left leg.",
+      "example_de": "Greybeard hat kein starkes linkes Bein."
     },
     {
       "de": "Kapitän",
       "en": "captain",
-      "example": "The captain has got a blue ship."
+      "example": "The captain has got a blue ship.",
+      "example_de": "Der Kapitän hat ein blaues Schiff."
     },
     {
       "de": "haben",
       "en": "have got / has got",
-      "example": "I have got brown hair.\nTamara has got red hair."
+      "example": "I have got brown hair.\nTamara has got red hair.",
+      "example_de": "Ich habe braune Haare.\nTamara hat rote Haare."
     },
     {
       "de": "hübsch",
       "en": "pretty",
-      "example": "Polly is a pretty pirate."
+      "example": "Polly is a pretty pirate.",
+      "example_de": "Polly ist eine hübsche Piratin."
     },
     {
       "de": "violett, lila",
       "en": "purple",
-      "example": "She has got purple hair."
+      "example": "She has got purple hair.",
+      "example_de": "Sie hat lila Haare."
     },
     {
       "de": "viel/e",
       "en": "a lot of / lots of",
-      "example": "She has got a lot of books about pirates."
+      "example": "She has got a lot of books about pirates.",
+      "example_de": "Sie hat viele Bücher über Piraten."
     },
     {
       "de": "Bett",
       "en": "bed",
-      "example": "Dana is in bed now."
+      "example": "Dana is in bed now.",
+      "example_de": "Dana ist jetzt im Bett."
     },
     {
       "de": "Traum",
       "en": "dream",
-      "example": "It’s a dream!"
+      "example": "It’s a dream!",
+      "example_de": "Es ist ein Traum!"
     },
     {
       "de": "müde",
       "en": "tired",
-      "example": "Dana is in bed. She is tired."
+      "example": "Dana is in bed. She is tired.",
+      "example_de": "Dana ist im Bett. Sie ist müde."
     },
     {
       "de": "raten",
       "en": "to guess",
-      "example": "Listen and guess the pirate."
+      "example": "Listen and guess the pirate.",
+      "example_de": "Hör zu und errate den Piraten."
     },
     {
       "de": "Du bist an der Reihe.",
       "en": "It’s your turn.",
-      "example": ""
+      "example": "",
+      "example_de": ""
     },
     {
       "de": "Bruder",
       "en": "brother",
-      "example": "Fred is Frank’s brother."
+      "example": "Fred is Frank’s brother.",
+      "example_de": "Fred ist Franks Bruder."
     },
     {
       "de": "blond",
       "en": "blonde",
-      "example": "He has got blonde hair."
+      "example": "He has got blonde hair.",
+      "example_de": "Er hat blonde Haare."
     },
     {
       "de": "echt; wirklich",
       "en": "real",
-      "example": "His left leg isn’t real. It’s wooden."
+      "example": "His left leg isn’t real. It’s wooden.",
+      "example_de": "Sein linkes Bein ist nicht echt. Es ist aus Holz."
     },
     {
       "de": "klein",
       "en": "short",
-      "example": "Greybeard is short."
+      "example": "Greybeard is short.",
+      "example_de": "Greybeard ist klein."
     },
     {
       "de": "groß",
       "en": "tall",
-      "example": "Tamara is tall."
+      "example": "Tamara is tall.",
+      "example_de": "Tamara ist groß."
     },
     {
       "de": "falsch, nicht in Ordnung",
       "en": "wrong",
-      "example": "Say what’s wrong."
+      "example": "Say what’s wrong.",
+      "example_de": "Sag, was falsch ist."
     },
     {
       "de": "Gute Idee.",
       "en": "Good idea.",
-      "example": ""
+      "example": "",
+      "example_de": ""
     },
     {
       "de": "wahr",
       "en": "true",
-      "example": "Is it true?"
+      "example": "Is it true?",
+      "example_de": "Ist das wahr?"
     }
   ]
 }

@@ -4,192 +4,230 @@
     {
       "de": "klettern",
       "en": "to climb",
-      "example": "Sherlock Groans climbs up a tree."
+      "example": "Sherlock Groans climbs up a tree.",
+      "example_de": "Sherlock Groans klettert auf einen Baum."
     },
     {
       "de": "hüpfen",
       "en": "to jump",
-      "example": "A bird jumps on Sherlock Groans’ head."
+      "example": "A bird jumps on Sherlock Groans’ head.",
+      "example_de": "Ein Vogel hüpft auf Sherlock Groans' Kopf."
     },
     {
       "de": "verlassen, weggehen",
       "en": "to leave",
-      "example": "Doctor Grey leaves the office."
+      "example": "Doctor Grey leaves the office.",
+      "example_de": "Doktor Grey verlässt das Büro."
     },
     {
       "de": "Spiegel",
       "en": "mirror",
-      "example": "There is a mirror on a wall."
+      "example": "There is a mirror on a wall.",
+      "example_de": "An einer Wand hängt ein Spiegel."
     },
     {
       "de": "aufsetzen, anziehen",
       "en": "to put on",
-      "example": "Sherlock puts his hat on."
+      "example": "Sherlock puts his hat on.",
+      "example_de": "Sherlock setzt seinen Hut auf."
     },
     {
       "de": "lächeln",
       "en": "to smile",
-      "example": "He smiles in the mirror."
+      "example": "He smiles in the mirror.",
+      "example_de": "Er lächelt in den Spiegel."
     },
     {
       "de": "abnehmen, ausziehen",
       "en": "to take off",
-      "example": "He takes off his hat."
+      "example": "He takes off his hat.",
+      "example_de": "Er nimmt seinen Hut ab."
     },
     {
       "de": "weg",
       "en": "away",
-      "example": "Go away!"
+      "example": "Go away!",
+      "example_de": "Geh weg!"
     },
     {
       "de": "(welt-)bester/beste/bestes",
       "en": "(world’s) best",
-      "example": "Sherlock Groans is the world’s best detective!"
+      "example": "Sherlock Groans is the world’s best detective!",
+      "example_de": "Sherlock Groans ist der weltbeste Detektiv!"
     },
     {
       "de": "Detektiv/Detektivin",
       "en": "detective",
-      "example": "He’s the world’s best detective."
+      "example": "He’s the world’s best detective.",
+      "example_de": "Er ist der weltbeste Detektiv."
     },
     {
       "de": "Hilf mir!",
       "en": "Help me!",
-      "example": ""
+      "example": "",
+      "example_de": ""
     },
     {
       "de": "suchen",
       "en": "to look for",
-      "example": "He looks for his hat in the park."
+      "example": "He looks for his hat in the park.",
+      "example_de": "Er sucht im Park nach seinem Hut."
     },
     {
       "de": "alt",
       "en": "old",
-      "example": "His skateboard isn’t new. It’s very old."
+      "example": "His skateboard isn’t new. It’s very old.",
+      "example_de": "Sein Skateboard ist nicht neu. Es ist sehr alt."
     },
     {
       "de": "aufheben",
       "en": "to pick up",
-      "example": "He picks up the hat."
+      "example": "He picks up the hat.",
+      "example_de": "Er hebt den Hut auf."
     },
     {
       "de": "hinausrennen (aus)",
       "en": "to run out (of)",
-      "example": "Sherlock runs out of the office."
+      "example": "Sherlock runs out of the office.",
+      "example_de": "Sherlock rennt aus dem Büro hinaus."
     },
     {
       "de": "(die StraRe) hinunterlaufen",
       "en": "to run down (the street)",
-      "example": "Sherlock runs down the street."
+      "example": "Sherlock runs down the street.",
+      "example_de": "Sherlock läuft die Straße hinunter."
     },
     {
       "de": "finden",
       "en": "to find",
-      "example": "The dog finds Sherlock Groans."
+      "example": "The dog finds Sherlock Groans.",
+      "example_de": "Der Hund findet Sherlock Groans."
     },
     {
       "de": "ziehen",
       "en": "to pull",
-      "example": "The dog pulls Sherlock Groans out of the river."
+      "example": "The dog pulls Sherlock Groans out of the river.",
+      "example_de": "Der Hund zieht Sherlock Groans aus dem Fluss."
     },
     {
       "de": "fangen; erwischen; festnehmen",
       "en": "to catch",
-      "example": "He always catches the bad people."
+      "example": "He always catches the bad people.",
+      "example_de": "Er fängt immer die Bösen."
     },
     {
       "de": "klug, schlau",
       "en": "clever",
-      "example": "Sherlock is really clever."
+      "example": "Sherlock is really clever.",
+      "example_de": "Sherlock ist wirklich klug."
     },
     {
       "de": "(zu etwas) hinkommen",
       "en": "to come to",
-      "example": "He comes to a park."
+      "example": "He comes to a park.",
+      "example_de": "Er kommt zu einem Park."
     },
     {
       "de": "leben, wohnen",
       "en": "to live",
-      "example": "Peter lives in London."
+      "example": "Peter lives in London.",
+      "example_de": "Peter wohnt in London."
     },
     {
       "de": "Pfeife",
       "en": "pipe",
-      "example": "Sherlock often has a pipe in his mouth."
+      "example": "Sherlock often has a pipe in his mouth.",
+      "example_de": "Sherlock hat oft eine Pfeife im Mund."
     },
     {
       "de": "rauchen",
       "en": "to smoke",
-      "example": "Groans smokes a pipe."
+      "example": "Groans smokes a pipe.",
+      "example_de": "Groans raucht Pfeife."
     },
     {
       "de": "Geige",
       "en": "violin",
-      "example": "He can play the violin."
+      "example": "He can play the violin.",
+      "example_de": "Er kann Geige spielen."
     },
     {
       "de": "tragen",
       "en": "to wear",
-      "example": "Trevor wears a black hat."
+      "example": "Trevor wears a black hat.",
+      "example_de": "Trevor trägt einen schwarzen Hut."
     },
     {
       "de": "viel/e, jede Menge",
       "en": "a lot of / lots of",
-      "example": "There are lots of beautiful trees in the park."
+      "example": "There are lots of beautiful trees in the park.",
+      "example_de": "Im Park gibt es jede Menge schöne Bäume."
     },
     {
       "de": "(an-)rufen",
       "en": "to call",
-      "example": "Sherlock Groans calls Doctor Grey."
+      "example": "Sherlock Groans calls Doctor Grey.",
+      "example_de": "Sherlock Groans ruft Doktor Grey an."
     },
     {
       "de": "Komm(t) jetzt!, Mach(t) schon!",
       "en": "Come on!",
-      "example": ""
+      "example": "",
+      "example_de": ""
     },
     {
       "de": "lösen",
       "en": "to solve",
-      "example": "Detectives solve problems."
+      "example": "Detectives solve problems.",
+      "example_de": "Detektive lösen Probleme."
     },
     {
       "de": "warten",
       "en": "to wait",
-      "example": "But ... wait ... what’s that?"
+      "example": "But ... wait ... what’s that?",
+      "example_de": "Aber ... warte ... was ist das?"
     },
     {
       "de": "beobachten, zuschauen",
       "en": "to watch",
-      "example": "He watches the people in the streets."
+      "example": "He watches the people in the streets.",
+      "example_de": "Er beobachtet die Leute auf den Straßen."
     },
     {
       "de": "Straße",
       "en": "street",
-      "example": "Anna lives in York Street."
+      "example": "Anna lives in York Street.",
+      "example_de": "Anna wohnt in der York Street."
     },
     {
       "de": "aufstehen",
       "en": "to get up",
-      "example": "He gets up at 7 o’clock in the morning."
+      "example": "He gets up at 7 o’clock in the morning.",
+      "example_de": "Er steht um 7 Uhr in der Früh auf."
     },
     {
       "de": "werden",
       "en": "to become",
-      "example": "Emma becomes a tiger."
+      "example": "Emma becomes a tiger.",
+      "example_de": "Emma wird zu einem Tiger."
     },
     {
       "de": "Aber es stimmt!",
       "en": "But it’s true!",
-      "example": ""
+      "example": "",
+      "example_de": ""
     },
     {
       "de": "weitermachen; Erzahl weiter!",
       "en": "Go on.",
-      "example": ""
+      "example": "",
+      "example_de": ""
     },
     {
       "de": "Gut gemacht.",
       "en": "Well done.",
-      "example": ""
+      "example": "",
+      "example_de": ""
     }
   ]
 }

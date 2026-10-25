@@ -4,177 +4,212 @@
     {
       "de": "fester Freund",
       "en": "boyfriend",
-      "example": "Jack is her boyfriend."
+      "example": "Jack is her boyfriend.",
+      "example_de": "Jack ist ihr fester Freund."
     },
     {
       "de": "sein/e; ihr/e",
       "en": "its",
-      "example": "This is my band. Its name is Project 11."
+      "example": "This is my band. Its name is Project 11.",
+      "example_de": "Das ist meine Band. Ihr Name ist Project 11."
     },
     {
       "de": "spielen",
       "en": "to play",
-      "example": "They play the guitar."
+      "example": "They play the guitar.",
+      "example_de": "Sie spielen Gitarre."
     },
     {
       "de": "Schwester",
       "en": "sister",
-      "example": "Jessica is my sister."
+      "example": "Jessica is my sister.",
+      "example_de": "Jessica ist meine Schwester."
     },
     {
       "de": "können; nicht können",
       "en": "can; cannot / can’t",
-      "example": "She can play the drums. He can’t sing."
+      "example": "She can play the drums. He can’t sing.",
+      "example_de": "Sie kann Schlagzeug spielen. Er kann nicht singen."
     },
     {
       "de": "Konzert",
       "en": "concert",
-      "example": "Let’s go to the concert tomorrow."
+      "example": "Let’s go to the concert tomorrow.",
+      "example_de": "Lass uns morgen ins Konzert gehen."
     },
     {
       "de": "tanzen",
       "en": "to dance",
-      "example": "Let’s dance to the music!"
+      "example": "Let’s dance to the music!",
+      "example_de": "Lass uns zur Musik tanzen!"
     },
     {
       "de": "Keine Sorge.",
       "en": "Don’t worry.",
-      "example": ""
+      "example": "",
+      "example_de": ""
     },
     {
       "de": "Arbeit; Aufgabe",
       "en": "job",
-      "example": "She has a good job."
+      "example": "She has a good job.",
+      "example_de": "Sie hat eine gute Arbeit."
     },
     {
       "de": "perfekt",
       "en": "perfect",
-      "example": "The job is perfect for you."
+      "example": "The job is perfect for you.",
+      "example_de": "Die Arbeit ist perfekt für dich."
     },
     {
       "de": "tragen",
       "en": "to carry",
-      "example": "Can you carry my guitar?"
+      "example": "Can you carry my guitar?",
+      "example_de": "Kannst du meine Gitarre tragen?"
     },
     {
       "de": "auf etwas stehen",
       "en": "to stand on",
-      "example": "I can stand on my head."
+      "example": "I can stand on my head.",
+      "example_de": "Ich kann auf dem Kopf stehen."
     },
     {
       "de": "Zunge",
       "en": "tongue",
-      "example": "He can touch his nose with his tongue."
+      "example": "He can touch his nose with his tongue.",
+      "example_de": "Er kann mit der Zunge seine Nase berühren."
     },
     {
       "de": "berühren",
       "en": "to touch",
-      "example": "Please don’t touch my guitar."
+      "example": "Please don’t touch my guitar.",
+      "example_de": "Bitte berühr meine Gitarre nicht."
     },
     {
       "de": "auf etwas gehen",
       "en": "to walk on",
-      "example": "Can you walk on your hands?"
+      "example": "Can you walk on your hands?",
+      "example_de": "Kannst du auf den Händen gehen?"
     },
     {
       "de": "wackeln",
       "en": "to wiggle",
-      "example": "He can wiggle his ears."
+      "example": "He can wiggle his ears.",
+      "example_de": "Er kann mit den Ohren wackeln."
     },
     {
       "de": "Dose",
       "en": "can",
-      "example": "Look, he carries fifteen cans."
+      "example": "Look, he carries fifteen cans.",
+      "example_de": "Schau, er trägt fünfzehn Dosen."
     },
     {
       "de": "trinken",
       "en": "to drink",
-      "example": "I can’t drink fifteen cans."
+      "example": "I can’t drink fifteen cans.",
+      "example_de": "Ich kann keine fünfzehn Dosen trinken."
     },
     {
       "de": "hundert",
       "en": "hundred",
-      "example": "Can you eat a hundred apples?"
+      "example": "Can you eat a hundred apples?",
+      "example_de": "Kannst du hundert Äpfel essen?"
     },
     {
       "de": "in einem Zug, auf einmal",
       "en": "in one go",
-      "example": "Can you drink five cans in one go?"
+      "example": "Can you drink five cans in one go?",
+      "example_de": "Kannst du fünf Dosen in einem Zug trinken?"
     },
     {
       "de": "Ach wirklich?",
       "en": "Is that so?",
-      "example": ""
+      "example": "",
+      "example_de": ""
     },
     {
       "de": "Das bin ich.",
       "en": "This is me.",
-      "example": ""
+      "example": "",
+      "example_de": ""
     },
     {
       "de": "Wirtschaft",
       "en": "economy",
-      "example": "The economy is the world of money."
+      "example": "The economy is the world of money.",
+      "example_de": "Die Wirtschaft ist die Welt des Geldes."
     },
     {
       "de": "Krankenhaus",
       "en": "hospital",
-      "example": "The Clown Doctors go to hospitals and help children."
+      "example": "The Clown Doctors go to hospitals and help children.",
+      "example_de": "Die Clown Doctors gehen in Krankenhäuser und helfen Kindern."
     },
     {
       "de": "lachen",
       "en": "to laugh",
-      "example": "They make children laugh."
+      "example": "They make children laugh.",
+      "example_de": "Sie bringen Kinder zum Lachen."
     },
     {
       "de": "(Taschen-)Geld",
       "en": "(pocket) money",
-      "example": "I get my pocket money from my mum and dad."
+      "example": "I get my pocket money from my mum and dad.",
+      "example_de": "Mein Taschengeld bekomme ich von meiner Mama und meinem Papa."
     },
     {
       "de": "Pfund",
       "en": "pound",
-      "example": "A cup of apple juice is 2 pounds."
+      "example": "A cup of apple juice is 2 pounds.",
+      "example_de": "Ein Becher Apfelsaft kostet 2 Pfund."
     },
     {
       "de": "Gewinn, Profit",
       "en": "profit",
-      "example": "It’s 120 pounds. That’s my profit."
+      "example": "It’s 120 pounds. That’s my profit.",
+      "example_de": "Es sind 120 Pfund. Das ist mein Gewinn."
     },
     {
       "de": "Schulkantine",
       "en": "school canteen",
-      "example": "We have apple juice in our school canteen."
+      "example": "We have apple juice in our school canteen.",
+      "example_de": "In unserer Schulkantine gibt es Apfelsaft."
     },
     {
       "de": "Tisch",
       "en": "table",
-      "example": "I put a table in our playground."
+      "example": "I put a table in our playground.",
+      "example_de": "Ich stelle einen Tisch in unseren Schulhof."
     },
     {
       "de": "Lehrer/Lehrerin",
       "en": "teacher",
-      "example": "Mr Davis is my teacher at school."
+      "example": "Mr Davis is my teacher at school.",
+      "example_de": "Mr Davis ist mein Lehrer in der Schule."
     },
     {
       "de": "Onkel",
       "en": "uncle",
-      "example": "My uncle is my dad’s brother."
+      "example": "My uncle is my dad’s brother.",
+      "example_de": "Mein Onkel ist der Bruder meines Papas."
     },
     {
       "de": "waschen",
       "en": "to wash",
-      "example": "I wash my mum’s car."
+      "example": "I wash my mum’s car.",
+      "example_de": "Ich wasche das Auto meiner Mama."
     },
     {
       "de": "nichts",
       "en": "nothing",
-      "example": "There’s nothing in the garden."
+      "example": "There’s nothing in the garden.",
+      "example_de": "Im Garten ist nichts."
     },
     {
       "de": "Entschuldigung?, Wie bitte?",
       "en": "Sorry?",
-      "example": ""
+      "example": "",
+      "example_de": ""
     }
   ]
 }

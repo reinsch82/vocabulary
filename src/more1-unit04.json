@@ -4,212 +4,254 @@
     {
       "de": "nach",
       "en": "after",
-      "example": "After school I meet my friends."
+      "example": "After school I meet my friends.",
+      "example_de": "Nach der Schule treffe ich meine Freunde."
     },
     {
       "de": "Tag",
       "en": "day",
-      "example": "On the big day, Mike is nervous."
+      "example": "On the big day, Mike is nervous.",
+      "example_de": "Am großen Tag ist Mike nervös."
     },
     {
       "de": "Ende",
       "en": "end",
-      "example": "At the end of the play, Mike is very happy."
+      "example": "At the end of the play, Mike is very happy.",
+      "example_de": "Am Ende des Theaterstücks ist Mike sehr glücklich."
     },
     {
       "de": "Spaß",
       "en": "fun",
-      "example": "It’s great fun."
+      "example": "It’s great fun.",
+      "example_de": "Es macht großen Spaß."
     },
     {
       "de": "Geh weg!",
       "en": "Go away!",
-      "example": ""
+      "example": "",
+      "example_de": ""
     },
     {
       "de": "helfen",
       "en": "to help",
-      "example": "Let me help you."
+      "example": "Let me help you.",
+      "example_de": "Lass mich dir helfen."
     },
     {
       "de": "zu/nach Hause; Zuhause",
       "en": "home",
-      "example": "Mike is at home."
+      "example": "Mike is at home.",
+      "example_de": "Mike ist zu Hause."
     },
     {
       "de": "Es hat keinen Zweck.",
       "en": "It’s no good.",
-      "example": ""
+      "example": "",
+      "example_de": ""
     },
     {
       "de": "Mama, Mutti",
       "en": "mum",
-      "example": "She is his mum."
+      "example": "She is his mum.",
+      "example_de": "Sie ist seine Mama."
     },
     {
       "de": "nächster/nächste/nächstes",
       "en": "next",
-      "example": "The next day."
+      "example": "The next day.",
+      "example_de": "Am nächsten Tag."
     },
     {
       "de": "immer noch (nicht)",
       "en": "still (not)",
-      "example": "Miss Baker still isn’t happy."
+      "example": "Miss Baker still isn’t happy.",
+      "example_de": "Miss Baker ist immer noch nicht zufrieden."
     },
     {
       "de": "ein Tag im Leben von",
       "en": "a day in the life of",
-      "example": "The story is about a day in the life of Richard."
+      "example": "The story is about a day in the life of Richard.",
+      "example_de": "Die Geschichte handelt von einem Tag im Leben von Richard."
     },
     {
       "de": "schlafen",
       "en": "to be asleep",
-      "example": "He’s in bed and he’s asleep."
+      "example": "He’s in bed and he’s asleep.",
+      "example_de": "Er ist im Bett und schläft."
     },
     {
       "de": "früh",
       "en": "early",
-      "example": "It’s early. He’s still in bed."
+      "example": "It’s early. He’s still in bed.",
+      "example_de": "Es ist früh. Er ist noch im Bett."
     },
     {
       "de": "Leben",
       "en": "life (pl lives)",
-      "example": "Elephants have a long life."
+      "example": "Elephants have a long life.",
+      "example_de": "Elefanten haben ein langes Leben."
     },
     {
       "de": "Mittagspause",
       "en": "lunchtime",
-      "example": "It’s lunchtime. He’s hungry."
+      "example": "It’s lunchtime. He’s hungry.",
+      "example_de": "Es ist Mittagspause. Er hat Hunger."
     },
     {
       "de": "Sonne",
       "en": "sun",
-      "example": "The sun is out."
+      "example": "The sun is out.",
+      "example_de": "Die Sonne scheint."
     },
     {
       "de": "Geht’s dir/euch/Ihnen gut?",
       "en": "Are you OK?",
-      "example": ""
+      "example": "",
+      "example_de": ""
     },
     {
       "de": "Hausaufgaben",
       "en": "homework (no pl)",
-      "example": "We have got a lot of homework today."
+      "example": "We have got a lot of homework today.",
+      "example_de": "Wir haben heute viele Hausaufgaben."
     },
     {
       "de": "in (... hinein)",
       "en": "into",
-      "example": "Go into the classroom!"
+      "example": "Go into the classroom!",
+      "example_de": "Geh in die Klasse hinein!"
     },
     {
       "de": "Du meine Güte!",
       "en": "Oh dear!",
-      "example": ""
+      "example": "",
+      "example_de": ""
     },
     {
       "de": "Zimmer, Raum",
       "en": "room",
-      "example": "There’s a rat in our room."
+      "example": "There’s a rat in our room.",
+      "example_de": "In unserem Zimmer ist eine Ratte."
     },
     {
       "de": "warum",
       "en": "why",
-      "example": "Why are you tired?"
+      "example": "Why are you tired?",
+      "example_de": "Warum bist du müde?"
     },
     {
       "de": "schlecht, böse",
       "en": "bad",
-      "example": "Thursday and Friday aren’t bad."
+      "example": "Thursday and Friday aren’t bad.",
+      "example_de": "Donnerstag und Freitag sind nicht schlecht."
     },
     {
       "de": "Komm(t) nicht zu spät., Sei(d) pünktlich.",
       "en": "Don’t be late.",
-      "example": ""
+      "example": "",
+      "example_de": ""
     },
     {
       "de": "morgen",
       "en": "tomorrow",
-      "example": "Tomorrow is Monday."
+      "example": "Tomorrow is Monday.",
+      "example_de": "Morgen ist Montag."
     },
     {
       "de": "Geburtstag",
       "en": "birthday",
-      "example": "Happy birthday, David!"
+      "example": "Happy birthday, David!",
+      "example_de": "Alles Gute zum Geburtstag, David!"
     },
     {
       "de": "Freund/Freundin",
       "en": "friend",
-      "example": "Tom is his friend."
+      "example": "Tom is his friend.",
+      "example_de": "Tom ist sein Freund."
     },
     {
       "de": "Sei du selbst.",
       "en": "Be yourself.",
-      "example": ""
+      "example": "",
+      "example_de": ""
     },
     {
       "de": "niemand anders",
       "en": "no one else",
-      "example": "Be yourself and no one else."
+      "example": "Be yourself and no one else.",
+      "example_de": "Sei du selbst und niemand anders."
     },
     {
       "de": "Flasche",
       "en": "bottle",
-      "example": "The feelings are in the bottle."
+      "example": "The feelings are in the bottle.",
+      "example_de": "Die Gefühle sind in der Flasche."
     },
     {
       "de": "zurückholen, zurückbekommen",
       "en": "to get back",
-      "example": "I will get the feelings back."
+      "example": "I will get the feelings back.",
+      "example_de": "Ich werde die Gefühle zurückholen."
     },
     {
       "de": "wütend, zornig",
       "en": "mad",
-      "example": "I am nice, Bob is mad."
+      "example": "I am nice, Bob is mad.",
+      "example_de": "Ich bin nett, Bob ist wütend."
     },
     {
       "de": "magisch",
       "en": "magic",
-      "example": "This is a magic bottle."
+      "example": "This is a magic bottle.",
+      "example_de": "Das ist eine magische Flasche."
     },
     {
       "de": "stehlen; ausrauben",
       "en": "to rob",
-      "example": "I’m a monster and I rob feelings."
+      "example": "I’m a monster and I rob feelings.",
+      "example_de": "Ich bin ein Monster und ich stehle Gefühle."
     },
     {
       "de": "(zer-)brechen",
       "en": "to break",
-      "example": "I must break the bottle."
+      "example": "I must break the bottle.",
+      "example_de": "Ich muss die Flasche zerbrechen."
     },
     {
       "de": "schlafen gehen",
       "en": "to go to sleep",
-      "example": "Go back to sleep."
+      "example": "Go back to sleep.",
+      "example_de": "Schlaf wieder ein."
     },
     {
       "de": "weil",
       "en": "because",
-      "example": "I’m happy because it’s the weekend."
+      "example": "I’m happy because it’s the weekend.",
+      "example_de": "Ich bin glücklich, weil Wochenende ist."
     },
     {
       "de": "Ich bin’s.",
       "en": "It’s me.",
-      "example": ""
+      "example": "",
+      "example_de": ""
     },
     {
       "de": "Versuch es!",
       "en": "Try it!",
-      "example": ""
+      "example": "",
+      "example_de": ""
     },
     {
       "de": "Lass(t) los!",
       "en": "Let go!",
-      "example": ""
+      "example": "",
+      "example_de": ""
     },
     {
       "de": "Was ist (hier) los?",
       "en": "What’s happening?",
-      "example": ""
+      "example": "",
+      "example_de": ""
     }
   ]
 }
