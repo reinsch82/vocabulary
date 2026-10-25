@@ -35,7 +35,7 @@ const indexPage = (units, versions) => {
         <p class="meta">${data.words.length - phrases} words · ${phrases} phrases</p>
         <div class="pdfs">
           ${pdfs
-            .map((v, i) => `<a class="btn${i ? ' secondary' : ''}" href="${href(v, file)}">${escape(v.label)}</a>`)
+            .map((v, i) => `<a class="btn${i ? ' secondary' : ''}" href="${href(v, file)}" target="_blank" rel="noopener">${escape(v.label)}</a>`)
             .join('\n          ')}
         </div>
         <a class="btn secondary practice" href="trainer.html?unit=${file}">Practice online</a>
