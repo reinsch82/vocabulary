@@ -18,7 +18,14 @@ module.exports = {
   toPDF: (buffer, withSolutions = false) => {
     // copy-webpack-plugin passes a buffer
     const data = JSON.parse(buffer.toString());
-    const words = data.words.filter((word) => word.example && word.example_de);
+    // entries without an example sentence are phrases themselves ("Good idea."), so use those directly
+    const rows = data.words
+      .map((word) =>
+        word.example && word.example_de
+          ? { de: word.example_de, en: word.example }
+          : { de: word.de, en: word.en },
+      )
+      .filter((row) => row.de && row.en);
 
     const doc = new PDFDocument({
       size: 'A4',
@@ -65,13 +72,13 @@ module.exports = {
     tableHeader();
     doc.font('Helvetica').fontSize(FONT_SIZE);
 
-    words.forEach((word, i) => {
+    rows.forEach((row, i) => {
       const textW = colEn - 2 * PAD;
-      const deH = doc.heightOfString(word.example_de, { width: COL_DE - 2 * PAD });
+      const deH = doc.heightOfString(row.de, { width: COL_DE - 2 * PAD });
       // estimate how much room the handwritten answer needs
       const lines = Math.max(
         1,
-        Math.ceil((doc.widthOfString(word.example) * HANDWRITING) / textW),
+        Math.ceil((doc.widthOfString(row.en) * HANDWRITING) / textW),
       );
       const rowH = Math.max(deH + 2 * PAD, lines * LINE_GAP + PAD);
 
@@ -90,10 +97,10 @@ module.exports = {
 
       doc.fillColor('black');
       doc.text(`${i + 1}`, left + PAD, y + PAD, { width: COL_NR - PAD });
-      doc.text(word.example_de, xDe + PAD, y + PAD, { width: COL_DE - 2 * PAD });
+      doc.text(row.de, xDe + PAD, y + PAD, { width: COL_DE - 2 * PAD });
 
       if (withSolutions) {
-        doc.text(word.example, xEn + PAD, y + PAD, { width: textW });
+        doc.text(row.en, xEn + PAD, y + PAD, { width: textW });
       } else {
         // writing lines
         doc.strokeColor('#bbbbbb').dash(1, { space: 2 });

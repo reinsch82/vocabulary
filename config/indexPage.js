@@ -27,11 +27,11 @@ const indexPage = (units, versions) => {
   const cards = units
     .map((file) => {
       const data = JSON.parse(fs.readFileSync(path.resolve('src', `${file}.json`), 'utf8'));
-      const sentences = data.words.filter((w) => w.example && w.example_de).length;
+      const phrases = data.words.filter((w) => !w.example).length;
       return `
       <article class="card">
         <h2>${escape(data.name)}</h2>
-        <p class="meta">${data.words.length} words · ${sentences} sentences</p>
+        <p class="meta">${data.words.length - phrases} words · ${phrases} phrases</p>
         <div class="pdfs">
           ${pdfs
             .map((v, i) => `<a class="btn${i ? ' secondary' : ''}" href="${href(v, file)}">${escape(v.label)}</a>`)
@@ -101,7 +101,7 @@ ${cards}
 
   <section>
     <h2>Worksheets</h2>
-    <p>Each worksheet lists the German example sentences of a unit with space to write the English translation. The solutions sheet has the same layout, so answers are easy to check.</p>
+    <p>Each worksheet lists the German example sentences and phrases of a unit with space to write the English translation. The solutions sheet has the same layout, so answers are easy to check.</p>
   </section>
 
   <section>
