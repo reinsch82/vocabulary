@@ -156,6 +156,108 @@
       "en": "true",
       "example": "Is it true?",
       "example_de": "Ist das wahr?"
+    },
+    {
+      "de": "Finger",
+      "en": "finger",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Ohr",
+      "en": "ear",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Nase",
+      "en": "nose",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Haar, Haare",
+      "en": "hair",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Auge",
+      "en": "eye",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Mund",
+      "en": "mouth",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Bart",
+      "en": "beard",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "rechter Arm",
+      "en": "right arm",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "linker Arm",
+      "en": "left arm",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Schulter",
+      "en": "shoulder",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Bein",
+      "en": "leg",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Fuß (Füße)",
+      "en": "foot (pl feet)",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Zahn (Zähne)",
+      "en": "tooth (pl teeth)",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "kurz",
+      "en": "short",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "groß",
+      "en": "big",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "klein",
+      "en": "small",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "lang",
+      "en": "long",
+      "example": "",
+      "example_de": ""
     }
   ]
 }

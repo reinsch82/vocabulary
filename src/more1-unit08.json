@@ -90,6 +90,90 @@
       "en": "Let’s get out of here.",
       "example": "",
       "example_de": ""
+    },
+    {
+      "de": "Kappe",
+      "en": "cap",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Maske",
+      "en": "mask",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Jacke",
+      "en": "jacket",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Pullover",
+      "en": "sweater",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Bluse",
+      "en": "blouse",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Hose",
+      "en": "trousers",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Kapuzenpullover, Hoodie",
+      "en": "hoodie",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Umhang",
+      "en": "cape",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Pyjama",
+      "en": "pyjamas",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Gürtel",
+      "en": "belt",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Strumpfhose",
+      "en": "tights",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Schuhe",
+      "en": "shoes",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Stiefel",
+      "en": "boots",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Turnschuhe",
+      "en": "trainers",
+      "example": "",
+      "example_de": ""
     }
   ]
 }

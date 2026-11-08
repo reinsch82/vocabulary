@@ -258,6 +258,96 @@
       "en": "neighbour",
       "example": "The neighbour’s kid is nice.",
       "example_de": "Das Kind der Nachbarn ist nett."
+    },
+    {
+      "de": "Natursendung",
+      "en": "nature programme",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Fantasyfilm",
+      "en": "fantasy film",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Realityshow",
+      "en": "reality show",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Quizsendung",
+      "en": "quiz show",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Science-Fiction-Film",
+      "en": "science fiction film",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "die Nachrichten",
+      "en": "the news",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Liebesfilm",
+      "en": "romantic film",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Sportsendung",
+      "en": "sports programme",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Spielshow",
+      "en": "game show",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Musiksendung",
+      "en": "music show",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Krimi",
+      "en": "detective film",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Fantasygeschichte",
+      "en": "fantasy story",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Detektivgeschichte, Krimi",
+      "en": "detective story",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Horrorgeschichte",
+      "en": "horror story",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Comicheft, Comic",
+      "en": "comic book",
+      "example": "",
+      "example_de": ""
     }
   ]
 }

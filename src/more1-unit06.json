@@ -228,6 +228,114 @@
       "en": "Well done.",
       "example": "",
       "example_de": ""
+    },
+    {
+      "de": "Wald",
+      "en": "woods",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Markt",
+      "en": "market",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "(Groß-)Stadt",
+      "en": "city",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Fluss",
+      "en": "river",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Park",
+      "en": "park",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Baum",
+      "en": "tree",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "in den Fluss springen",
+      "en": "to jump into the river",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "aus dem Fenster schauen",
+      "en": "to look out the window",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "etwas aufheben",
+      "en": "to pick something up",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "aus dem Büro laufen",
+      "en": "to run out of the office",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "auf einem Baum sitzen",
+      "en": "to sit in a tree",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "vom Baum fallen",
+      "en": "to fall out of the tree",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "gegen einen Baum laufen",
+      "en": "to bump into a tree",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "in den Park gehen",
+      "en": "to go to the park",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "auf einen Baum klettern",
+      "en": "to climb up a tree",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "das Büro verlassen",
+      "en": "to leave the office",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "in den Spiegel schauen",
+      "en": "to look in the mirror",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "etwas suchen",
+      "en": "to look for something",
+      "example": "",
+      "example_de": ""
     }
   ]
 }

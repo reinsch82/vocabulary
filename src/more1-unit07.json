@@ -156,6 +156,222 @@
       "en": "present",
       "example": "The vase is a good present for Mum.",
       "example_de": "Die Vase ist ein gutes Geschenk für Mama."
+    },
+    {
+      "de": "Eis",
+      "en": "ice cream",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Chilis, Pfefferoni",
+      "en": "chillies",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Fisch",
+      "en": "fish",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Huhn, Hähnchen",
+      "en": "chicken",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Milch",
+      "en": "milk",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Butter",
+      "en": "butter",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Käse",
+      "en": "cheese",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "ein Ei",
+      "en": "an egg",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Orangensaft",
+      "en": "orange juice",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Gurke",
+      "en": "cucumber",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Würstel, Würstchen",
+      "en": "sausages",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Brokkoli",
+      "en": "broccoli",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Bohnen",
+      "en": "beans",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Tee",
+      "en": "tea",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Karotte",
+      "en": "carrot",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "ein Apfel",
+      "en": "an apple",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Mineralwasser",
+      "en": "mineral water",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Zwiebel",
+      "en": "onion",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "(Wein-)Trauben",
+      "en": "grapes",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "eine Orange",
+      "en": "an orange",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Erbsen",
+      "en": "peas",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Tomate (Tomaten)",
+      "en": "tomato (pl tomatoes)",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Kiwi",
+      "en": "kiwi",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "(rote) Paprika",
+      "en": "red pepper",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Spinat",
+      "en": "spinach",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Kartoffel (Kartoffeln)",
+      "en": "potato (pl potatoes)",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Kürbis",
+      "en": "pumpkin",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Mais",
+      "en": "corn",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Schwarzbrot",
+      "en": "brown bread",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Suppe",
+      "en": "soup",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Pommes frites",
+      "en": "chips",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Nüsse",
+      "en": "nuts",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Reis",
+      "en": "rice",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Nudeln",
+      "en": "noodles",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Abendessen",
+      "en": "dinner",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Restaurant",
+      "en": "restaurant",
+      "example": "",
+      "example_de": ""
     }
   ]
 }

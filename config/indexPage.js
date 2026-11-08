@@ -28,11 +28,12 @@ const indexPage = (units, versions) => {
   const cards = units
     .map((file) => {
       const data = JSON.parse(fs.readFileSync(path.resolve('src', `${file}.json`), 'utf8'));
-      const phrases = data.words.filter((w) => !w.example).length;
+      // phrases ("Good idea.") are whole sentences; words from the word files have no example either
+      const phrases = data.words.filter((w) => /[.!?]$/.test(w.en)).length;
       return `
       <article class="card">
         <h2>${escape(data.name)}</h2>
-        <p class="meta">${data.words.length - phrases} words · ${phrases} phrases</p>
+        <p class="meta">${data.words.length - phrases} words · ${phrases} phrase${phrases === 1 ? '' : 's'}</p>
         <div class="pdfs">
           ${pdfs
             .map((v, i) => `<a class="btn${i ? ' secondary' : ''}" href="${href(v, file)}" target="_blank" rel="noopener">${escape(v.label)}</a>`)

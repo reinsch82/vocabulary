@@ -252,6 +252,144 @@
       "en": "What’s happening?",
       "example": "",
       "example_de": ""
+    },
+    {
+      "de": "wütend, zornig",
+      "en": "angry",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "ängstlich, verängstigt",
+      "en": "scared",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "kalt",
+      "en": "cold",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "heiß",
+      "en": "hot",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "glücklich, fröhlich",
+      "en": "happy",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "gelangweilt",
+      "en": "bored",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "aufgeregt",
+      "en": "excited",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "traurig",
+      "en": "sad",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "hungrig",
+      "en": "hungry",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "nervös",
+      "en": "nervous",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "müde",
+      "en": "tired",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "stolz",
+      "en": "proud",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Morgen; Vormittag",
+      "en": "morning",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Nachmittag",
+      "en": "afternoon",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Abend",
+      "en": "evening",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Nacht",
+      "en": "night",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Montag",
+      "en": "Monday",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Dienstag",
+      "en": "Tuesday",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Mittwoch",
+      "en": "Wednesday",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Donnerstag",
+      "en": "Thursday",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Freitag",
+      "en": "Friday",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Samstag",
+      "en": "Saturday",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Sonntag",
+      "en": "Sunday",
+      "example": "",
+      "example_de": ""
     }
   ]
 }

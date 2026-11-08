@@ -216,6 +216,126 @@
       "en": "to need",
       "example": "I really need your help.",
       "example_de": "Ich brauche wirklich deine Hilfe."
+    },
+    {
+      "de": "Eule",
+      "en": "owl",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Wellensittich",
+      "en": "budgie",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Fledermaus",
+      "en": "bat",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Elefant",
+      "en": "elephant",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Spinne",
+      "en": "spider",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Zebra",
+      "en": "zebra",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Kamel",
+      "en": "camel",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Hai",
+      "en": "shark",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Pony",
+      "en": "pony",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Fisch",
+      "en": "fish",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Meerschweinchen",
+      "en": "guinea pig",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Schwein",
+      "en": "pig",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Hase, Kaninchen",
+      "en": "rabbit",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Ratte",
+      "en": "rat",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Eidechse",
+      "en": "lizard",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Schildkröte",
+      "en": "tortoise",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Kiste, Schachtel",
+      "en": "box",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Becken, Aquarium",
+      "en": "tank",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Käfig",
+      "en": "cage",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Terrarium",
+      "en": "terrarium",
+      "example": "",
+      "example_de": ""
     }
   ]
 }

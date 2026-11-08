@@ -246,6 +246,42 @@
       "en": "stone",
       "example": "Colour your stone.",
       "example_de": "Mal deinen Stein an."
+    },
+    {
+      "de": "Affe",
+      "en": "monkey",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Papagei",
+      "en": "parrot",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Giraffe",
+      "en": "giraffe",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Pinguin",
+      "en": "penguin",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Löwe",
+      "en": "lion",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "in",
+      "en": "in",
+      "example": "",
+      "example_de": ""
     }
   ]
 }

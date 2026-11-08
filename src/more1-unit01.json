@@ -252,6 +252,588 @@
       "en": "class",
       "example": "I’m in class 1A.",
       "example_de": "Ich bin in der Klasse 1A."
+    },
+    {
+      "de": "ein/eine",
+      "en": "a",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "der/die/das",
+      "en": "the",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "und",
+      "en": "and",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "ja",
+      "en": "yes",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "nicht",
+      "en": "not",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "ich",
+      "en": "I",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "du; Sie; ihr",
+      "en": "you",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "bitte",
+      "en": "please",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "danke",
+      "en": "thank you",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "sagen",
+      "en": "to say",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "singen",
+      "en": "to sing",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Junge",
+      "en": "boy",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Mädchen",
+      "en": "girl",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Schule",
+      "en": "school",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Apfel",
+      "en": "apple",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Ball",
+      "en": "ball",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Katze",
+      "en": "cat",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Hund",
+      "en": "dog",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Bär",
+      "en": "bear",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Fisch",
+      "en": "fish",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Frosch",
+      "en": "frog",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Krokodil",
+      "en": "crocodile",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Gorilla",
+      "en": "gorilla",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Insekt",
+      "en": "insect",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Honig",
+      "en": "honey",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "T-Shirt",
+      "en": "T-shirt",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Hallo!",
+      "en": "Hello!",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Tschüss!",
+      "en": "Bye!",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Wie heißt du?",
+      "en": "What’s your name?",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Ich heiße John.",
+      "en": "My name is John.",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Ich bin Joanna.",
+      "en": "I’m Joanna.",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Es tut mir leid.",
+      "en": "I’m sorry.",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "eins",
+      "en": "one",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "zwei",
+      "en": "two",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "drei",
+      "en": "three",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "vier",
+      "en": "four",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "fünf",
+      "en": "five",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "sechs",
+      "en": "six",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "sieben",
+      "en": "seven",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "acht",
+      "en": "eight",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "neun",
+      "en": "nine",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "zehn",
+      "en": "ten",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "elf",
+      "en": "eleven",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "zwölf",
+      "en": "twelve",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "dreizehn",
+      "en": "thirteen",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "vierzehn",
+      "en": "fourteen",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "fünfzehn",
+      "en": "fifteen",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "sechzehn",
+      "en": "sixteen",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "siebzehn",
+      "en": "seventeen",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "achtzehn",
+      "en": "eighteen",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "neunzehn",
+      "en": "nineteen",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "zwanzig",
+      "en": "twenty",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "einundzwanzig",
+      "en": "twenty-one",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "zweiundzwanzig",
+      "en": "twenty-two",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "dreiundzwanzig",
+      "en": "twenty-three",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "vierundzwanzig",
+      "en": "twenty-four",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "fünfundzwanzig",
+      "en": "twenty-five",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "rot",
+      "en": "red",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "gelb",
+      "en": "yellow",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "blau",
+      "en": "blue",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "grün",
+      "en": "green",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "orange",
+      "en": "orange",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "braun",
+      "en": "brown",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "rosa",
+      "en": "pink",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "weiß",
+      "en": "white",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "schwarz",
+      "en": "black",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "grau",
+      "en": "grey",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Lautsprecheranlage",
+      "en": "sound system",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Beamer, Projektor",
+      "en": "projector",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Tafel",
+      "en": "board",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Fenster",
+      "en": "window",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Tür",
+      "en": "door",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Schreibtisch; (Schul-)Bank",
+      "en": "desk",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Schere",
+      "en": "scissors",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Lineal",
+      "en": "ruler",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "(Fuß-)Boden",
+      "en": "floor",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Tablet",
+      "en": "tablet",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Federpennal, Federmäppchen",
+      "en": "pencil case",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Sessel, Stuhl",
+      "en": "chair",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Wasserfarben",
+      "en": "watercolours",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Pinsel",
+      "en": "paintbrush",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Schultasche",
+      "en": "school bag",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Bleistift",
+      "en": "pencil",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Klebestift",
+      "en": "glue stick",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Kugelschreiber, Stift",
+      "en": "pen",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Heft",
+      "en": "exercise book",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Spitzer",
+      "en": "pencil sharpener",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Radiergummi",
+      "en": "rubber",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Haarreifen",
+      "en": "hairband",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Sonnenbrille",
+      "en": "sunglasses",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Hemd",
+      "en": "shirt",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Hut; Mütze",
+      "en": "hat",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Schulkrawatte",
+      "en": "school tie",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Pullover",
+      "en": "sweater",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Rock",
+      "en": "skirt",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Socken",
+      "en": "socks",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Schuh",
+      "en": "shoe",
+      "example": "",
+      "example_de": ""
     }
   ]
 }

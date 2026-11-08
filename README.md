@@ -15,7 +15,7 @@ Book info:
 
 ## About The Project
 
-English - German vocabulary from the book "MORE! 1", sorted by unit (units 1–15 of the current workbook), with an example sentence and its German translation for most entries.
+English - German vocabulary from the book "MORE! 1", sorted by unit (units 1–15 of the current workbook), including the picture word files, with an example sentence and its German translation for many entries.
 
 Help your child or yourself to learn the vocabulary from this book quickly!
 

@@ -210,6 +210,60 @@
       "en": "Sorry?",
       "example": "",
       "example_de": ""
+    },
+    {
+      "de": "Schlagzeuger/Schlagzeugerin",
+      "en": "drummer",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Saxofonist/Saxofonistin",
+      "en": "saxophone player",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Gitarrist/Gitarristin",
+      "en": "guitarist",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Keyboarder/Keyboarderin",
+      "en": "keyboard player",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Schlagzeug",
+      "en": "drums",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Gitarre",
+      "en": "guitar",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Keyboard",
+      "en": "keyboard",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Saxofon",
+      "en": "saxophone",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Sänger/Sängerin",
+      "en": "singer",
+      "example": "",
+      "example_de": ""
     }
   ]
 }

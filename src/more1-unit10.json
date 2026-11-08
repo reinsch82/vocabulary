@@ -204,6 +204,66 @@
       "en": "Just a minute.",
       "example": "",
       "example_de": ""
+    },
+    {
+      "de": "zwanzig",
+      "en": "twenty",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "dreißig",
+      "en": "thirty",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "vierzig",
+      "en": "forty",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "fünfzig",
+      "en": "fifty",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "sechzig",
+      "en": "sixty",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "siebzig",
+      "en": "seventy",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "achtzig",
+      "en": "eighty",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "neunzig",
+      "en": "ninety",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "(ein)hundert",
+      "en": "one hundred",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "(ein)tausend",
+      "en": "one thousand",
+      "example": "",
+      "example_de": ""
     }
   ]
 }

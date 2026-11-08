@@ -294,6 +294,48 @@
       "en": "Tell me more.",
       "example": "",
       "example_de": ""
+    },
+    {
+      "de": "Jetpack, Raketenrucksack",
+      "en": "jetpack",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Hubschrauber",
+      "en": "helicopter",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Küstenwache",
+      "en": "coastguard",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Bergrettung",
+      "en": "mountain rescue",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Feuerwehr",
+      "en": "fire brigade",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Rettung, Krankenwagen",
+      "en": "ambulance",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Polizei",
+      "en": "police",
+      "example": "",
+      "example_de": ""
     }
   ]
 }

@@ -156,6 +156,294 @@
       "en": "You’re welcome.",
       "example": "",
       "example_de": ""
+    },
+    {
+      "de": "Jänner, Januar",
+      "en": "January",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Februar",
+      "en": "February",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "März",
+      "en": "March",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "April",
+      "en": "April",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Mai",
+      "en": "May",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Juni",
+      "en": "June",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Juli",
+      "en": "July",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "August",
+      "en": "August",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "September",
+      "en": "September",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Oktober",
+      "en": "October",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "November",
+      "en": "November",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Dezember",
+      "en": "December",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Schlafzimmer",
+      "en": "bedroom",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Bibliothek",
+      "en": "library",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Wohnzimmer",
+      "en": "living room",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Esszimmer",
+      "en": "dining room",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Badezimmer",
+      "en": "bathroom",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Vorzimmer, Flur",
+      "en": "hall",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Küche",
+      "en": "kitchen",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Garten",
+      "en": "garden",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Garage",
+      "en": "garage",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "erster/erste/erstes",
+      "en": "first",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "zweiter/zweite/zweites",
+      "en": "second",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "dritter/dritte/drittes",
+      "en": "third",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "vierter/vierte/viertes",
+      "en": "fourth",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "fünfter/fünfte/fünftes",
+      "en": "fifth",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "sechster/sechste/sechstes",
+      "en": "sixth",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "siebter/siebte/siebtes",
+      "en": "seventh",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "achter/achte/achtes",
+      "en": "eighth",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "neunter/neunte/neuntes",
+      "en": "ninth",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "zehnter/zehnte/zehntes",
+      "en": "tenth",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "elfter/elfte/elftes",
+      "en": "eleventh",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "zwölfter/zwölfte/zwölftes",
+      "en": "twelfth",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "dreizehnter/dreizehnte/dreizehntes",
+      "en": "thirteenth",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "vierzehnter/vierzehnte/vierzehntes",
+      "en": "fourteenth",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "fünfzehnter/fünfzehnte/fünfzehntes",
+      "en": "fifteenth",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "sechzehnter/sechzehnte/sechzehntes",
+      "en": "sixteenth",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "siebzehnter/siebzehnte/siebzehntes",
+      "en": "seventeenth",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "achtzehnter/achtzehnte/achtzehntes",
+      "en": "eighteenth",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "neunzehnter/neunzehnte/neunzehntes",
+      "en": "nineteenth",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "zwanzigster/zwanzigste/zwanzigstes",
+      "en": "twentieth",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "einundzwanzigster/einundzwanzigste/einundzwanzigstes",
+      "en": "twenty-first",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "zweiundzwanzigster/zweiundzwanzigste/zweiundzwanzigstes",
+      "en": "twenty-second",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "dreiundzwanzigster/dreiundzwanzigste/dreiundzwanzigstes",
+      "en": "twenty-third",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "vierundzwanzigster/vierundzwanzigste/vierundzwanzigstes",
+      "en": "twenty-fourth",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "neunundzwanzigster/neunundzwanzigste/neunundzwanzigstes",
+      "en": "twenty-ninth",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "dreißigster/dreißigste/dreißigstes",
+      "en": "thirtieth",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "einunddreißigster/einunddreißigste/einunddreißigstes",
+      "en": "thirty-first",
+      "example": "",
+      "example_de": ""
     }
   ]
 }

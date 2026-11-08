@@ -228,6 +228,120 @@
       "en": "Hurry up.",
       "example": "",
       "example_de": ""
+    },
+    {
+      "de": "9 Uhr morgens/vormittags",
+      "en": "9 a.m.",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Mittag (12 Uhr)",
+      "en": "midday",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "9 Uhr abends",
+      "en": "9 p.m.",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Mitternacht",
+      "en": "midnight",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "9 Uhr",
+      "en": "9 o’clock",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Viertel nach neun",
+      "en": "(a) quarter past nine",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "halb zehn",
+      "en": "half past nine",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Viertel vor zehn, dreiviertel zehn",
+      "en": "(a) quarter to ten",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Rad fahren",
+      "en": "to ride a bike",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "fernsehen",
+      "en": "to watch TV",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Fußball spielen",
+      "en": "to play football",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Computerspiele spielen",
+      "en": "to play computer games",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Klavier spielen",
+      "en": "to play the piano",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "reiten",
+      "en": "to ride a horse",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Skateboard fahren",
+      "en": "to skateboard",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Roller fahren",
+      "en": "to ride a scooter",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Ski fahren",
+      "en": "to ski",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Inlineskaten",
+      "en": "to skate",
+      "example": "",
+      "example_de": ""
+    },
+    {
+      "de": "Snowboard fahren",
+      "en": "to snowboard",
+      "example": "",
+      "example_de": ""
     }
   ]
 }
